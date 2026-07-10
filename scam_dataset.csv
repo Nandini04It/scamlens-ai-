@@ -1,0 +1,1001 @@
+transaction_id,date,time,day_of_week,fraud_type,fraud_lure,amount_inr,upi_app,transaction_type,sender_upi_id
+TXN933251567391,2025-01-14,08:47:17,Tuesday,Vishing,Prize/Lottery Win,700,PhonePe,P2P,pay7924@ibl
+TXN517045625552,2024-03-10,08:24:06,Sunday,Vishing,Job Offer/Part-time Work,3100,BHIM,P2P,txn8428@ibl
+TXN726820024292,2023-11-01,17:44:59,Wednesday,OTP Sharing,Electricity Bill Disconnection,1800,PhonePe,Collect Request,txn4483@paytm
+TXN615379416985,2023-12-28,08:47:35,Thursday,Fake Collect Request,KYC Update Required,17000,Amazon Pay,P2M,mb5119@apl
+TXN757132452561,2023-12-30,18:21:07,Saturday,Vishing,Impersonation of Known Person,500,Google Pay,P2P,txn9005@okaxis
+TXN442364508902,2023-12-02,06:56:36,Saturday,Remote Access Scam,Impersonation of Known Person,1500,PhonePe,P2M,acct7118@paytm
+TXN960037124392,2023-12-10,10:21:01,Sunday,Fake Collect Request,Refund Processing,2900,PhonePe,P2P,acct7669@oksbi
+TXN281403868608,2024-03-28,13:29:55,Thursday,OTP Sharing,Job Offer/Part-time Work,5800,PhonePe,P2P,acct8956@paytm
+TXN683482989002,2023-09-16,12:24:16,Saturday,Social Engineering,Prize/Lottery Win,14650,Google Pay,P2M,pay1931@apl
+TXN108901504899,2024-11-30,07:55:15,Saturday,QR Code Swap,Job Offer/Part-time Work,87350,PhonePe,P2M,acct2638@okhdfcbank
+TXN269879802007,2023-12-28,08:22:56,Thursday,Phishing,Electricity Bill Disconnection,3150,Google Pay,Collect Request,txn5616@oksbi
+TXN741535897688,2024-08-30,14:57:58,Friday,Fake UPI App,Prize/Lottery Win,1350,PhonePe,Collect Request,mb3426@axl
+TXN960420184902,2024-04-08,21:50:55,Monday,Phishing,Electricity Bill Disconnection,4800,Paytm,P2P,acct5065@ybl
+TXN224672594992,2023-05-10,20:14:12,Wednesday,Fake UPI App,Refund Processing,3250,Google Pay,P2P,txn3925@ybl
+TXN446273815783,2024-03-19,18:20:27,Tuesday,Fake Collect Request,Delivery Agent Scam,8150,PhonePe,P2M,user5920@apl
+TXN910872751961,2024-05-17,17:35:08,Friday,Phishing,KYC Update Required,8100,PhonePe,P2M,pay2389@ybl
+TXN567199758169,2023-11-27,17:14:51,Monday,Phishing,Job Offer/Part-time Work,1000,PhonePe,Collect Request,pay3881@apl
+TXN403386445743,2023-12-12,21:07:29,Tuesday,Phishing,Loan Offer,4200,Paytm,P2M,mb8939@oksbi
+TXN519084398943,2025-03-31,11:17:21,Monday,Vishing,Refund Processing,6150,PhonePe,P2P,acct1096@ibl
+TXN804735188129,2024-10-03,18:34:51,Thursday,Fake Collect Request,Loan Offer,2900,Google Pay,P2M,acct3223@paytm
+TXN782987331574,2024-04-23,11:29:20,Tuesday,Vishing,Job Offer/Part-time Work,34100,PhonePe,P2P,pay4908@okicici
+TXN760068866484,2024-07-20,17:49:23,Saturday,Phishing,Job Offer/Part-time Work,5950,Google Pay,Collect Request,user1672@ibl
+TXN394602435240,2023-06-10,14:21:00,Saturday,Fake UPI App,Prize/Lottery Win,11750,PhonePe,P2P,txn5022@okhdfcbank
+TXN884458179683,2024-07-19,15:42:24,Friday,Vishing,Loan Offer,7650,PhonePe,Collect Request,acct8342@okaxis
+TXN631453260232,2024-05-19,17:19:42,Sunday,Fake Collect Request,Refund Processing,9350,PhonePe,P2M,txn9595@ybl
+TXN172250436572,2023-11-19,12:19:00,Sunday,OTP Sharing,Job Offer/Part-time Work,600,PhonePe,Collect Request,acct9056@okhdfcbank
+TXN788087209613,2023-08-31,19:19:05,Thursday,Money Mule,Customer Care Impersonation,1350,Google Pay,P2M,pay5335@okhdfcbank
+TXN177920311528,2024-10-17,07:00:26,Thursday,QR Code Swap,Prize/Lottery Win,7400,Paytm,P2P,user3718@ybl
+TXN732517733550,2023-08-06,13:19:44,Sunday,QR Code Swap,Prize/Lottery Win,4200,PhonePe,P2P,user3870@paytm
+TXN950275468961,2023-10-03,23:27:40,Tuesday,Fake UPI App,Loan Offer,80800,Paytm,P2P,acct9431@okaxis
+TXN228475055567,2023-05-26,09:23:39,Friday,SIM Swap,KYC Update Required,5400,PhonePe,P2M,acct2924@okicici
+TXN747842026084,2025-03-23,10:53:30,Sunday,Money Mule,KYC Update Required,4250,Google Pay,P2P,mb9022@okicici
+TXN650298037487,2024-03-19,11:48:34,Tuesday,Vishing,Refund Processing,62350,Paytm,P2P,mb6439@okhdfcbank
+TXN778759018230,2024-07-11,01:09:26,Thursday,Fake UPI App,Investment Scheme,54900,Google Pay,P2M,user4846@ybl
+TXN743870697885,2023-07-10,18:45:55,Monday,Phishing,Prize/Lottery Win,1100,PhonePe,P2P,pay4804@paytm
+TXN425125927992,2025-02-11,00:51:29,Tuesday,Social Engineering,Loan Offer,6300,PhonePe,Collect Request,user7484@ybl
+TXN457749775324,2024-01-19,18:14:38,Friday,SIM Swap,Electricity Bill Disconnection,900,Google Pay,Collect Request,acct3877@oksbi
+TXN114579586722,2024-09-25,14:17:53,Wednesday,Phishing,KYC Update Required,40800,Google Pay,P2M,txn9791@okhdfcbank
+TXN248337633154,2024-11-19,12:40:23,Tuesday,Phishing,Electricity Bill Disconnection,2100,Google Pay,P2M,acct8432@ibl
+TXN200737244056,2024-05-29,16:53:31,Wednesday,Fake Collect Request,KYC Update Required,68350,BHIM,Collect Request,pay1349@okaxis
+TXN745267002855,2024-10-30,09:53:48,Wednesday,Fake Collect Request,Prize/Lottery Win,6900,PhonePe,Collect Request,txn1258@okicici
+TXN637334604519,2024-06-05,14:47:04,Wednesday,QR Code Swap,Investment Scheme,18400,Google Pay,P2M,acct2204@okhdfcbank
+TXN540034427145,2023-08-08,10:40:37,Tuesday,Fake Collect Request,Investment Scheme,4450,PhonePe,P2M,acct2557@ibl
+TXN158931506885,2024-04-18,22:43:59,Thursday,QR Code Swap,Job Offer/Part-time Work,650,Google Pay,P2M,txn6119@ibl
+TXN442576940326,2023-09-06,16:14:54,Wednesday,Phishing,Delivery Agent Scam,16000,PhonePe,P2M,txn6751@okaxis
+TXN557165098695,2023-06-11,08:40:01,Sunday,Phishing,Job Offer/Part-time Work,8100,Google Pay,P2M,txn4531@apl
+TXN650744131878,2023-07-23,10:43:37,Sunday,QR Code Swap,Delivery Agent Scam,5350,PhonePe,Collect Request,mb6802@okhdfcbank
+TXN917376405323,2023-04-20,13:04:55,Thursday,Vishing,Delivery Agent Scam,3650,PhonePe,P2P,txn4630@ibl
+TXN722263658623,2025-01-08,08:32:12,Wednesday,Social Engineering,Prize/Lottery Win,5000,PhonePe,P2P,mb6295@ibl
+TXN992962570107,2024-07-24,13:19:50,Wednesday,Vishing,Electricity Bill Disconnection,1550,PhonePe,P2P,mb4084@ibl
+TXN811379241054,2023-09-02,22:28:06,Saturday,Fake UPI App,Job Offer/Part-time Work,21700,Google Pay,Collect Request,txn2079@ibl
+TXN201045089995,2023-12-15,18:42:58,Friday,Fake Collect Request,Customer Care Impersonation,650,BHIM,P2M,acct9331@ibl
+TXN949084306678,2023-10-02,22:21:49,Monday,QR Code Swap,Loan Offer,2550,Google Pay,P2M,mb3712@paytm
+TXN981325990907,2025-02-21,17:28:39,Friday,Vishing,Prize/Lottery Win,17350,Google Pay,Collect Request,mb3267@ybl
+TXN190170799779,2024-10-19,21:45:54,Saturday,QR Code Swap,Impersonation of Known Person,650,PhonePe,P2P,txn4678@okaxis
+TXN560585590540,2023-08-28,08:18:58,Monday,Fake UPI App,Prize/Lottery Win,12250,Paytm,P2P,mb8489@okhdfcbank
+TXN512235425357,2023-04-17,16:36:15,Monday,OTP Sharing,Digital Arrest Threat,2001,Google Pay,P2P,txn1266@ibl
+TXN322441120293,2025-02-01,16:49:37,Saturday,SIM Swap,Digital Arrest Threat,2200,Google Pay,P2M,user6170@ybl
+TXN566979258469,2024-07-28,10:48:41,Sunday,Phishing,Loan Offer,2200,PhonePe,Collect Request,user8055@okicici
+TXN254752570608,2023-07-15,07:42:18,Saturday,Vishing,Electricity Bill Disconnection,8500,Google Pay,Collect Request,mb8179@okaxis
+TXN874212049318,2025-01-20,12:24:36,Monday,Phishing,Customer Care Impersonation,1400,Google Pay,P2M,acct4515@ybl
+TXN323274444183,2023-08-17,20:28:11,Thursday,Social Engineering,Job Offer/Part-time Work,2350,Google Pay,P2M,pay4878@paytm
+TXN746992988388,2024-11-07,12:51:35,Thursday,Phishing,Delivery Agent Scam,27150,Google Pay,P2M,pay3114@axl
+TXN892956100142,2024-09-12,09:10:10,Thursday,Vishing,Impersonation of Known Person,15650,PhonePe,P2P,mb6531@okaxis
+TXN450977696076,2025-01-16,18:16:41,Thursday,Phishing,Delivery Agent Scam,5250,BHIM,P2M,txn7532@okicici
+TXN123611025550,2023-07-18,11:29:07,Tuesday,Vishing,Investment Scheme,2400,PhonePe,Collect Request,user7442@apl
+TXN655710136742,2024-11-18,11:03:18,Monday,QR Code Swap,Refund Processing,46450,PhonePe,P2P,acct5582@okhdfcbank
+TXN430036462228,2024-04-17,19:21:35,Wednesday,Social Engineering,Delivery Agent Scam,13250,PhonePe,P2M,mb6511@apl
+TXN892975625286,2025-03-26,15:30:52,Wednesday,Phishing,KYC Update Required,2450,Google Pay,P2M,mb7229@okicici
+TXN488893282253,2023-10-13,02:20:26,Friday,Phishing,Loan Offer,16700,Google Pay,P2M,txn8932@oksbi
+TXN885787089052,2024-01-31,10:19:49,Wednesday,Vishing,Refund Processing,1950,Paytm,P2M,user6674@paytm
+TXN275789144602,2023-10-24,19:17:59,Tuesday,Fake Collect Request,Electricity Bill Disconnection,2450,Google Pay,P2M,acct8793@paytm
+TXN108750850618,2024-01-18,16:58:49,Thursday,Phishing,Delivery Agent Scam,9400,Paytm,P2P,txn2758@ibl
+TXN195897714803,2024-09-18,14:08:54,Wednesday,QR Code Swap,Refund Processing,2450,Google Pay,P2P,acct2562@okicici
+TXN800583966022,2023-12-11,00:24:15,Monday,QR Code Swap,KYC Update Required,3350,Google Pay,P2M,txn7021@oksbi
+TXN657928656291,2023-09-04,13:38:23,Monday,QR Code Swap,Electricity Bill Disconnection,8850,Google Pay,P2M,pay9792@okicici
+TXN479776888469,2024-06-26,08:13:45,Wednesday,Fake Collect Request,Job Offer/Part-time Work,1550,PhonePe,P2M,user9866@okaxis
+TXN681508758920,2024-01-19,12:49:08,Friday,SIM Swap,Refund Processing,92350,PhonePe,Collect Request,pay4648@okaxis
+TXN366497035560,2025-02-18,17:27:34,Tuesday,Vishing,Delivery Agent Scam,3900,Google Pay,P2P,user7590@paytm
+TXN571066644856,2023-05-28,08:18:14,Sunday,Fake UPI App,Digital Arrest Threat,15200,PhonePe,Collect Request,mb9120@okaxis
+TXN507365336000,2024-02-21,17:26:09,Wednesday,Vishing,Impersonation of Known Person,1600,Google Pay,Collect Request,user9775@oksbi
+TXN534670074164,2025-02-18,16:02:55,Tuesday,Phishing,Impersonation of Known Person,19650,Paytm,P2P,pay6269@ybl
+TXN268771565771,2025-01-24,12:16:23,Friday,QR Code Swap,Refund Processing,5800,PhonePe,P2P,pay6404@oksbi
+TXN154409571483,2024-10-15,16:43:21,Tuesday,Vishing,Loan Offer,21850,Google Pay,P2P,user7756@okicici
+TXN265460975402,2023-04-10,10:29:23,Monday,Phishing,Loan Offer,8950,PhonePe,P2P,pay4144@apl
+TXN961763314712,2024-05-11,07:25:29,Saturday,Fake Collect Request,KYC Update Required,218400,Amazon Pay,P2M,txn2562@apl
+TXN844700757105,2025-03-09,21:30:17,Sunday,Phishing,Digital Arrest Threat,1050,Paytm,P2P,mb6435@axl
+TXN424779482234,2024-03-20,06:27:14,Wednesday,Fake UPI App,Digital Arrest Threat,4500,PhonePe,P2P,pay2204@okhdfcbank
+TXN114539486168,2025-03-29,19:09:47,Saturday,Vishing,Prize/Lottery Win,2400,PhonePe,P2P,txn7779@axl
+TXN519275532872,2023-09-21,17:10:08,Thursday,Vishing,Prize/Lottery Win,2600,PhonePe,P2P,txn8212@ibl
+TXN944741523484,2024-02-23,16:44:12,Friday,QR Code Swap,Prize/Lottery Win,1300,PhonePe,P2M,mb1440@paytm
+TXN870343313387,2025-03-10,07:54:50,Monday,SIM Swap,KYC Update Required,6150,Google Pay,P2M,mb2392@okhdfcbank
+TXN628386473206,2025-01-22,16:36:41,Wednesday,OTP Sharing,Job Offer/Part-time Work,3350,PhonePe,P2M,user5840@axl
+TXN715601913080,2024-03-22,11:29:50,Friday,Phishing,Loan Offer,8900,PhonePe,P2P,acct8570@oksbi
+TXN640575907758,2025-01-15,16:25:01,Wednesday,SIM Swap,Delivery Agent Scam,39750,PhonePe,P2M,mb6134@axl
+TXN812617370241,2024-03-22,11:29:39,Friday,Phishing,KYC Update Required,7450,PhonePe,P2P,pay3733@paytm
+TXN345993620171,2024-02-17,20:39:03,Saturday,Fake UPI App,Loan Offer,81750,Google Pay,P2M,mb5729@okicici
+TXN581409926304,2024-09-05,08:07:17,Thursday,SIM Swap,Customer Care Impersonation,16000,PhonePe,P2P,user4882@oksbi
+TXN168370591034,2023-09-17,16:50:13,Sunday,Fake UPI App,Refund Processing,19350,PhonePe,P2M,txn3078@okicici
+TXN906797440309,2023-12-10,18:43:25,Sunday,QR Code Swap,Customer Care Impersonation,7200,Google Pay,P2M,user8511@ibl
+TXN572266150378,2023-11-10,22:52:13,Friday,QR Code Swap,Loan Offer,3150,PhonePe,P2P,pay3161@ybl
+TXN862023035909,2025-01-30,12:05:23,Thursday,OTP Sharing,Loan Offer,5400,PhonePe,P2M,pay8826@okhdfcbank
+TXN925235072673,2023-07-14,08:23:56,Friday,Vishing,Prize/Lottery Win,2550,Google Pay,P2M,user7291@ibl
+TXN221916450226,2023-12-10,10:05:15,Sunday,Fake Collect Request,Prize/Lottery Win,10000,Google Pay,Collect Request,pay9185@okhdfcbank
+TXN870618387758,2024-02-19,08:55:53,Monday,Fake Collect Request,KYC Update Required,4800,PhonePe,P2M,acct2350@apl
+TXN914609608952,2023-06-25,11:32:58,Sunday,Phishing,Refund Processing,18800,Google Pay,P2M,pay2956@okaxis
+TXN497330782704,2024-08-21,22:33:33,Wednesday,SIM Swap,Investment Scheme,12750,Google Pay,P2P,user9185@okicici
+TXN450985964040,2023-07-15,21:43:46,Saturday,Phishing,Prize/Lottery Win,10050,PhonePe,P2P,txn2276@ibl
+TXN318080769622,2023-10-01,10:33:02,Sunday,Remote Access Scam,Refund Processing,1450,PhonePe,P2M,mb5016@okicici
+TXN553203914925,2023-11-25,15:40:53,Saturday,OTP Sharing,Job Offer/Part-time Work,1200,Google Pay,P2P,txn8511@okhdfcbank
+TXN216631600236,2023-08-15,16:25:04,Tuesday,Fake Collect Request,Loan Offer,1850,PhonePe,Collect Request,pay8365@paytm
+TXN130811527327,2024-09-30,12:49:13,Monday,QR Code Swap,Prize/Lottery Win,2500,Google Pay,P2M,acct8408@apl
+TXN992620287906,2024-07-17,08:50:08,Wednesday,Phishing,Job Offer/Part-time Work,950,Google Pay,P2M,txn3007@okaxis
+TXN560150924878,2024-11-08,13:46:25,Friday,QR Code Swap,KYC Update Required,3750,PhonePe,Collect Request,pay9614@oksbi
+TXN822619043664,2025-03-31,12:34:50,Monday,QR Code Swap,Delivery Agent Scam,41450,Google Pay,P2P,pay5366@apl
+TXN122414613742,2024-03-29,22:54:11,Friday,Phishing,Job Offer/Part-time Work,7950,Paytm,P2M,mb8831@okaxis
+TXN969459729210,2024-03-14,17:58:51,Thursday,Fake UPI App,Refund Processing,2100,PhonePe,P2M,acct6198@okicici
+TXN917466143803,2025-02-10,15:11:24,Monday,Vishing,Delivery Agent Scam,6050,Google Pay,Collect Request,user4899@ibl
+TXN735071262108,2025-03-26,17:46:56,Wednesday,Vishing,Customer Care Impersonation,950,PhonePe,P2P,pay3664@paytm
+TXN547492574952,2023-04-21,11:06:04,Friday,Vishing,Electricity Bill Disconnection,30250,PhonePe,P2M,mb9849@ybl
+TXN829692942548,2023-07-08,06:36:35,Saturday,Fake UPI App,KYC Update Required,1250,Google Pay,P2M,txn2493@apl
+TXN623712684551,2024-04-25,12:28:02,Thursday,Vishing,Electricity Bill Disconnection,2950,Google Pay,P2P,mb4860@paytm
+TXN448999964467,2023-05-06,14:57:33,Saturday,SIM Swap,Delivery Agent Scam,6200,Amazon Pay,Collect Request,user2425@axl
+TXN389527568106,2024-02-28,20:33:29,Wednesday,Social Engineering,Job Offer/Part-time Work,1950,PhonePe,P2P,acct8955@paytm
+TXN588525573162,2024-05-17,08:38:43,Friday,OTP Sharing,Refund Processing,1200,PhonePe,P2P,txn5414@axl
+TXN598358245380,2024-06-26,09:52:26,Wednesday,SIM Swap,Customer Care Impersonation,24200,PhonePe,P2M,user6904@oksbi
+TXN344199433115,2024-08-30,12:59:07,Friday,OTP Sharing,Prize/Lottery Win,4000,Google Pay,P2P,pay4387@ybl
+TXN658377306072,2025-02-27,00:58:08,Thursday,OTP Sharing,Refund Processing,5050,Google Pay,P2M,txn5631@ybl
+TXN384737453791,2024-03-10,23:40:20,Sunday,Fake UPI App,KYC Update Required,4900,Google Pay,P2P,acct7628@axl
+TXN197300055920,2025-03-31,10:34:40,Monday,SIM Swap,Refund Processing,47000,Google Pay,P2M,pay6820@oksbi
+TXN606748799930,2024-04-15,10:18:29,Monday,Fake UPI App,Loan Offer,9800,PhonePe,P2P,pay6183@okicici
+TXN930312582992,2025-01-06,23:20:40,Monday,Phishing,KYC Update Required,2850,PhonePe,P2M,mb4122@okaxis
+TXN993001892476,2025-03-11,20:19:08,Tuesday,Phishing,Electricity Bill Disconnection,7500,PhonePe,P2M,acct1313@oksbi
+TXN861091805321,2023-04-23,15:10:07,Sunday,Vishing,KYC Update Required,5300,Google Pay,P2M,user5933@axl
+TXN462841688793,2024-12-28,16:08:26,Saturday,Fake UPI App,Delivery Agent Scam,1950,PhonePe,P2M,pay1044@okaxis
+TXN108787026740,2023-08-31,22:49:32,Thursday,Phishing,KYC Update Required,24800,PhonePe,P2M,pay3793@ibl
+TXN583950013487,2023-07-05,12:21:11,Wednesday,Phishing,Delivery Agent Scam,3850,Google Pay,P2M,pay7221@ibl
+TXN373703886095,2024-08-07,21:07:56,Wednesday,QR Code Swap,Loan Offer,1050,Google Pay,P2M,acct6664@axl
+TXN445517526651,2025-01-18,21:32:54,Saturday,QR Code Swap,Prize/Lottery Win,6350,BHIM,P2P,user9148@okaxis
+TXN933642144228,2023-05-07,15:00:52,Sunday,Phishing,Delivery Agent Scam,7500,PhonePe,P2P,pay1035@ibl
+TXN604446076155,2024-09-16,12:06:02,Monday,Social Engineering,Customer Care Impersonation,8350,Paytm,P2P,mb9260@okicici
+TXN595184704771,2023-05-20,15:27:53,Saturday,Fake Collect Request,Electricity Bill Disconnection,30800,PhonePe,P2M,pay3263@axl
+TXN742013300223,2025-03-19,15:20:45,Wednesday,SIM Swap,Digital Arrest Threat,6800,PhonePe,P2M,mb7839@apl
+TXN811858242266,2024-09-17,08:24:09,Tuesday,Phishing,Loan Offer,1050,PhonePe,Collect Request,mb7371@oksbi
+TXN295201173737,2024-04-25,12:50:43,Thursday,Vishing,Prize/Lottery Win,5100,Paytm,P2P,user4063@okicici
+TXN342774723210,2023-05-12,13:35:16,Friday,Phishing,Electricity Bill Disconnection,7100,PhonePe,Collect Request,pay9529@okhdfcbank
+TXN847495580988,2024-10-08,14:05:22,Tuesday,Vishing,Job Offer/Part-time Work,1200,Google Pay,P2M,txn7248@okhdfcbank
+TXN855334212417,2024-01-15,03:33:52,Monday,SIM Swap,Impersonation of Known Person,9150,PhonePe,P2M,acct2702@oksbi
+TXN743153962394,2025-03-03,09:29:45,Monday,Vishing,Customer Care Impersonation,600,Google Pay,Collect Request,user2189@ibl
+TXN510804776837,2025-03-03,11:05:18,Monday,SIM Swap,Delivery Agent Scam,3600,PhonePe,P2M,user3316@okhdfcbank
+TXN810650722791,2024-10-02,15:05:19,Wednesday,Phishing,Prize/Lottery Win,21900,Google Pay,P2P,mb2198@ybl
+TXN882635493530,2023-10-20,18:31:21,Friday,Vishing,Electricity Bill Disconnection,6900,PhonePe,P2M,acct5533@ibl
+TXN943553629287,2024-07-17,13:49:19,Wednesday,QR Code Swap,Refund Processing,1800,PhonePe,P2M,mb4485@okaxis
+TXN722549976924,2024-10-04,13:49:09,Friday,Vishing,Job Offer/Part-time Work,4400,Google Pay,P2P,pay8921@ibl
+TXN819783599768,2023-11-24,06:23:14,Friday,Phishing,KYC Update Required,1250,PhonePe,P2M,user9465@ybl
+TXN628767763413,2024-05-20,11:55:22,Monday,QR Code Swap,Refund Processing,9950,PhonePe,P2M,acct8848@oksbi
+TXN767649244610,2023-04-23,10:08:36,Sunday,Fake Collect Request,Impersonation of Known Person,1550,PhonePe,P2P,acct8891@okicici
+TXN141230886330,2024-11-17,19:11:39,Sunday,OTP Sharing,KYC Update Required,4950,PhonePe,P2P,mb9246@okhdfcbank
+TXN943862896001,2024-12-08,14:00:57,Sunday,Social Engineering,Delivery Agent Scam,8550,Google Pay,P2P,pay2373@ybl
+TXN930635740676,2023-12-20,09:45:47,Wednesday,SIM Swap,KYC Update Required,5950,Google Pay,P2P,pay7770@apl
+TXN525892126813,2024-04-14,15:30:16,Sunday,Money Mule,Loan Offer,8250,Google Pay,P2P,user2492@okicici
+TXN660920645414,2023-06-05,10:23:05,Monday,Fake Collect Request,Delivery Agent Scam,16550,Google Pay,Collect Request,mb4795@okicici
+TXN314589696439,2025-01-30,00:10:05,Thursday,Money Mule,Impersonation of Known Person,15800,PhonePe,P2M,acct7618@okaxis
+TXN383967210094,2024-08-31,08:04:32,Saturday,Vishing,Digital Arrest Threat,83650,Google Pay,P2M,user7269@oksbi
+TXN908462573552,2024-03-27,14:00:44,Wednesday,Fake UPI App,Refund Processing,2400,Google Pay,P2P,pay5348@oksbi
+TXN342227048003,2024-12-24,12:49:06,Tuesday,Phishing,Refund Processing,1850,BHIM,Collect Request,mb3101@okaxis
+TXN476295330686,2024-10-05,04:22:25,Saturday,Fake UPI App,Prize/Lottery Win,17500,Google Pay,P2P,txn4013@paytm
+TXN248174644406,2025-03-18,18:23:54,Tuesday,QR Code Swap,Prize/Lottery Win,4350,PhonePe,P2P,mb9748@ibl
+TXN815438018984,2024-10-27,20:03:25,Sunday,Phishing,Refund Processing,950,PhonePe,P2P,mb3859@ybl
+TXN536560423063,2024-08-12,18:28:56,Monday,Phishing,Electricity Bill Disconnection,8800,Google Pay,P2P,txn8289@ibl
+TXN529004832647,2024-05-28,09:54:01,Tuesday,Phishing,KYC Update Required,3050,PhonePe,P2P,txn4757@oksbi
+TXN441595001780,2023-08-13,14:10:01,Sunday,Phishing,KYC Update Required,3350,Paytm,P2M,txn8891@apl
+TXN372278386916,2024-02-10,12:16:09,Saturday,Vishing,Customer Care Impersonation,800,Paytm,Collect Request,pay7385@axl
+TXN123772518378,2024-06-06,16:33:48,Thursday,SIM Swap,Prize/Lottery Win,7250,PhonePe,Collect Request,pay2675@ybl
+TXN998722247997,2023-04-09,10:09:00,Sunday,QR Code Swap,KYC Update Required,3300,Google Pay,P2P,acct1206@okhdfcbank
+TXN339086633582,2023-12-10,18:02:12,Sunday,QR Code Swap,Prize/Lottery Win,18550,BHIM,Collect Request,user4866@axl
+TXN219363438641,2024-01-08,15:25:50,Monday,Vishing,Prize/Lottery Win,88100,PhonePe,P2P,pay8992@oksbi
+TXN998918069255,2023-10-15,02:24:22,Sunday,OTP Sharing,Prize/Lottery Win,2150,Google Pay,P2P,txn9873@ibl
+TXN147531028009,2024-04-23,18:56:01,Tuesday,Fake Collect Request,Job Offer/Part-time Work,4550,Google Pay,P2P,pay3926@okaxis
+TXN559090903720,2023-10-14,08:36:41,Saturday,Fake UPI App,KYC Update Required,9300,PhonePe,P2M,txn1955@ybl
+TXN300972092281,2024-02-06,07:13:33,Tuesday,Phishing,Job Offer/Part-time Work,18700,Google Pay,Collect Request,mb7579@apl
+TXN754056870606,2024-12-05,13:22:57,Thursday,Vishing,Prize/Lottery Win,270200,Google Pay,P2P,user9480@okicici
+TXN904092770340,2023-11-14,10:20:01,Tuesday,SIM Swap,Customer Care Impersonation,68100,Google Pay,P2P,user6319@paytm
+TXN145201882326,2024-11-30,16:02:46,Saturday,SIM Swap,KYC Update Required,2250,PhonePe,Collect Request,txn9846@okicici
+TXN628860242936,2023-09-04,06:46:25,Monday,Remote Access Scam,KYC Update Required,19400,PhonePe,P2P,mb4245@paytm
+TXN581662622746,2024-12-21,23:33:15,Saturday,Vishing,Refund Processing,3750,Google Pay,P2P,user4825@oksbi
+TXN512395838482,2023-07-25,18:15:39,Tuesday,Social Engineering,Prize/Lottery Win,34450,PhonePe,P2P,mb9631@okaxis
+TXN686680104754,2024-01-16,09:44:39,Tuesday,Vishing,KYC Update Required,2050,Paytm,P2P,user4054@oksbi
+TXN713940392259,2025-03-30,02:15:59,Sunday,Fake Collect Request,Digital Arrest Threat,3600,PhonePe,P2P,txn4695@okicici
+TXN679385260692,2023-06-29,18:33:43,Thursday,Fake Collect Request,Customer Care Impersonation,6850,PhonePe,P2M,pay8046@okicici
+TXN776938306428,2023-06-09,15:46:07,Friday,Phishing,Customer Care Impersonation,12400,PhonePe,P2P,txn4783@oksbi
+TXN639521161767,2023-06-21,17:30:08,Wednesday,QR Code Swap,Customer Care Impersonation,8050,PhonePe,P2P,txn8496@oksbi
+TXN306370152544,2024-12-13,18:24:46,Friday,Vishing,Customer Care Impersonation,9700,Google Pay,P2M,txn8201@axl
+TXN602006723057,2023-09-18,13:39:58,Monday,Phishing,Job Offer/Part-time Work,6150,Google Pay,P2P,user5097@ibl
+TXN900193288049,2023-07-26,17:40:23,Wednesday,Phishing,Delivery Agent Scam,21900,PhonePe,P2P,acct5731@okicici
+TXN152431404270,2023-04-04,16:16:00,Tuesday,QR Code Swap,Customer Care Impersonation,42800,PhonePe,P2M,pay3429@okaxis
+TXN520466688767,2023-05-04,17:53:38,Thursday,Vishing,Loan Offer,26600,PhonePe,P2M,user8001@apl
+TXN787173397028,2023-08-16,08:55:17,Wednesday,Vishing,Digital Arrest Threat,2850,Google Pay,P2M,txn3125@paytm
+TXN427739387542,2023-10-02,20:14:45,Monday,Vishing,Digital Arrest Threat,750,Google Pay,P2M,mb6307@okaxis
+TXN428655506955,2024-05-10,18:39:01,Friday,Fake UPI App,Prize/Lottery Win,1200,PhonePe,P2P,mb6169@apl
+TXN509042558814,2024-11-12,17:51:58,Tuesday,Social Engineering,Job Offer/Part-time Work,2600,Google Pay,Collect Request,acct5958@oksbi
+TXN141766712855,2023-07-24,12:02:49,Monday,Phishing,Loan Offer,1550,PhonePe,Collect Request,acct7350@apl
+TXN113376505558,2023-05-16,17:38:55,Tuesday,Phishing,Electricity Bill Disconnection,2200,PhonePe,P2M,mb9422@okhdfcbank
+TXN859505585792,2024-10-14,11:09:45,Monday,SIM Swap,Customer Care Impersonation,6400,PhonePe,P2P,acct6826@ybl
+TXN460272181409,2023-06-20,22:48:48,Tuesday,QR Code Swap,Prize/Lottery Win,1950,Google Pay,P2M,acct8987@okaxis
+TXN329096622851,2024-03-25,13:54:10,Monday,Vishing,Electricity Bill Disconnection,4350,Google Pay,P2P,mb8063@axl
+TXN199048311937,2025-03-11,10:42:42,Tuesday,Phishing,Customer Care Impersonation,87650,PhonePe,P2P,pay3276@okaxis
+TXN503994977126,2024-09-26,11:39:36,Thursday,QR Code Swap,Loan Offer,1150,Paytm,Collect Request,mb1870@okaxis
+TXN119964679793,2024-01-14,20:15:27,Sunday,OTP Sharing,KYC Update Required,3300,PhonePe,P2P,pay8974@axl
+TXN722932886998,2025-01-17,19:55:29,Friday,Social Engineering,Prize/Lottery Win,17000,Google Pay,P2P,acct7038@okhdfcbank
+TXN615442389863,2023-08-24,18:33:54,Thursday,Money Mule,Electricity Bill Disconnection,17600,PhonePe,P2M,acct9399@paytm
+TXN376071258443,2024-03-27,22:51:18,Wednesday,Vishing,Prize/Lottery Win,1700,PhonePe,P2M,pay5603@ybl
+TXN896459529963,2024-12-09,09:37:47,Monday,Phishing,Refund Processing,2700,Google Pay,Collect Request,pay4454@ibl
+TXN802361556810,2023-05-24,09:25:30,Wednesday,Vishing,Job Offer/Part-time Work,22350,PhonePe,P2P,txn8074@ybl
+TXN895511335697,2023-07-10,10:37:25,Monday,QR Code Swap,Prize/Lottery Win,7000,PhonePe,P2M,txn5127@oksbi
+TXN800404859161,2023-05-29,22:42:57,Monday,Fake UPI App,Delivery Agent Scam,91800,Google Pay,P2P,acct5528@axl
+TXN134803353165,2023-06-15,10:03:24,Thursday,Vishing,Electricity Bill Disconnection,235400,PhonePe,Collect Request,user2153@ybl
+TXN235214445347,2023-08-31,16:00:59,Thursday,Phishing,Job Offer/Part-time Work,2600,Google Pay,Collect Request,mb9770@ibl
+TXN309316623535,2023-05-27,16:41:05,Saturday,Vishing,KYC Update Required,36150,Google Pay,P2P,pay1584@oksbi
+TXN138964087093,2024-05-03,06:34:41,Friday,Vishing,Customer Care Impersonation,8700,PhonePe,P2M,pay9010@okaxis
+TXN855810534663,2025-03-19,16:00:11,Wednesday,OTP Sharing,Job Offer/Part-time Work,28200,Google Pay,P2P,mb9943@okicici
+TXN751339331489,2024-11-28,09:04:07,Thursday,Vishing,KYC Update Required,12750,Paytm,P2P,txn7819@paytm
+TXN656368873070,2025-01-15,10:28:26,Wednesday,Vishing,Delivery Agent Scam,1900,BHIM,P2M,pay8605@oksbi
+TXN632700778895,2023-07-25,19:43:54,Tuesday,Remote Access Scam,Prize/Lottery Win,6450,PhonePe,P2P,mb2901@okhdfcbank
+TXN792323623688,2024-06-03,09:43:57,Monday,Vishing,KYC Update Required,15350,PhonePe,Collect Request,txn5418@oksbi
+TXN622231863307,2025-03-09,15:17:08,Sunday,Phishing,Electricity Bill Disconnection,3700,Google Pay,P2M,acct5573@okaxis
+TXN906135983187,2024-03-01,13:14:57,Friday,Social Engineering,Job Offer/Part-time Work,87600,Amazon Pay,P2M,acct4571@okicici
+TXN681250405931,2025-01-23,23:01:30,Thursday,OTP Sharing,Investment Scheme,1450,PhonePe,P2M,user5859@axl
+TXN626773608807,2025-03-02,07:56:21,Sunday,SIM Swap,Refund Processing,1900,PhonePe,P2P,mb4437@oksbi
+TXN186274334156,2024-08-28,17:17:03,Wednesday,Phishing,Investment Scheme,4000,Google Pay,Collect Request,acct3929@ybl
+TXN476147672122,2024-01-08,08:09:31,Monday,Phishing,Customer Care Impersonation,1800,Paytm,P2M,txn8965@apl
+TXN276752871335,2024-02-06,15:57:50,Tuesday,Vishing,Customer Care Impersonation,13700,PhonePe,P2P,pay2915@okaxis
+TXN875874004889,2023-12-23,12:13:35,Saturday,OTP Sharing,KYC Update Required,7800,Google Pay,P2P,txn8764@ybl
+TXN837347372732,2024-03-12,17:46:30,Tuesday,Social Engineering,Refund Processing,1650,PhonePe,P2P,user9385@axl
+TXN900684262475,2024-12-08,16:03:58,Sunday,OTP Sharing,Digital Arrest Threat,4950,PhonePe,P2P,acct3286@okhdfcbank
+TXN433225932101,2024-07-30,23:33:21,Tuesday,Phishing,Customer Care Impersonation,99550,PhonePe,P2P,acct8593@oksbi
+TXN508535501147,2023-12-25,11:40:53,Monday,OTP Sharing,KYC Update Required,1850,Google Pay,P2P,mb1287@ybl
+TXN979115239884,2024-02-22,13:44:08,Thursday,Vishing,Impersonation of Known Person,1250,PhonePe,P2M,txn5447@ibl
+TXN185538702509,2023-08-26,01:33:18,Saturday,Vishing,Delivery Agent Scam,7800,Google Pay,Collect Request,user3150@okaxis
+TXN931008547062,2025-03-08,12:52:28,Saturday,Social Engineering,Loan Offer,7800,PhonePe,P2P,acct1696@oksbi
+TXN902217436696,2024-11-28,06:07:58,Thursday,Vishing,Prize/Lottery Win,1850,Google Pay,P2M,mb4962@apl
+TXN663561015610,2024-11-13,18:33:13,Wednesday,OTP Sharing,Job Offer/Part-time Work,61250,PhonePe,P2P,pay7677@okhdfcbank
+TXN506643771715,2023-07-22,14:31:48,Saturday,Vishing,Refund Processing,4950,PhonePe,P2M,pay1209@paytm
+TXN398902450645,2024-09-17,16:05:07,Tuesday,Phishing,Prize/Lottery Win,4400,PhonePe,P2P,acct6834@paytm
+TXN944046753592,2024-09-05,10:49:29,Thursday,Phishing,Job Offer/Part-time Work,4050,Google Pay,Collect Request,acct8635@oksbi
+TXN887321019258,2024-08-29,10:21:51,Thursday,Fake UPI App,Customer Care Impersonation,5250,PhonePe,Collect Request,acct8986@okhdfcbank
+TXN791023055912,2025-03-02,14:30:30,Sunday,Fake Collect Request,Digital Arrest Threat,600,Google Pay,P2P,txn7235@okhdfcbank
+TXN513676279109,2024-05-26,11:42:15,Sunday,Vishing,Job Offer/Part-time Work,9850,PhonePe,P2P,mb7394@ibl
+TXN783869972943,2023-07-12,17:13:21,Wednesday,QR Code Swap,Investment Scheme,20950,PhonePe,P2M,user2552@ibl
+TXN394064794239,2024-07-30,13:22:50,Tuesday,Phishing,Electricity Bill Disconnection,18250,PhonePe,P2P,mb8106@okaxis
+TXN608139902526,2024-07-17,09:09:47,Wednesday,OTP Sharing,Refund Processing,3800,Google Pay,Collect Request,acct8145@axl
+TXN898175908261,2024-01-05,08:16:50,Friday,SIM Swap,Investment Scheme,6450,Google Pay,P2P,pay4867@okhdfcbank
+TXN162661343522,2024-09-16,17:37:49,Monday,Social Engineering,Customer Care Impersonation,2350,PhonePe,P2M,acct9740@ibl
+TXN498146117496,2024-06-07,13:15:17,Friday,Fake UPI App,KYC Update Required,73800,Google Pay,Collect Request,user9763@oksbi
+TXN468684989749,2024-05-07,21:58:16,Tuesday,Vishing,Investment Scheme,99600,Paytm,P2M,acct2644@okicici
+TXN816532062801,2024-03-26,13:46:52,Tuesday,Fake Collect Request,KYC Update Required,4850,Google Pay,P2M,pay7722@ibl
+TXN152264408884,2023-12-23,09:37:52,Saturday,Vishing,Prize/Lottery Win,2350,Paytm,Collect Request,acct8027@ybl
+TXN560374809291,2023-09-22,22:07:00,Friday,OTP Sharing,Delivery Agent Scam,3850,PhonePe,Collect Request,pay7693@okicici
+TXN760575627385,2023-11-28,16:58:15,Tuesday,Vishing,Prize/Lottery Win,8750,BHIM,P2P,user1087@ybl
+TXN411084850715,2024-05-09,17:08:57,Thursday,Fake Collect Request,Loan Offer,7150,PhonePe,P2P,txn5321@apl
+TXN222376453993,2024-02-18,18:31:48,Sunday,Remote Access Scam,Loan Offer,8600,PhonePe,P2P,pay3025@ibl
+TXN750144482408,2023-10-02,20:47:32,Monday,Fake UPI App,Impersonation of Known Person,9800,Google Pay,P2P,user6300@okicici
+TXN180504007993,2025-03-25,16:29:40,Tuesday,Remote Access Scam,Digital Arrest Threat,5050,PhonePe,Collect Request,mb7248@okhdfcbank
+TXN637729352538,2023-12-02,22:55:25,Saturday,Phishing,Refund Processing,30350,BHIM,P2P,acct7358@paytm
+TXN241666001158,2024-06-06,19:39:11,Thursday,QR Code Swap,Impersonation of Known Person,2150,Google Pay,P2M,txn5073@apl
+TXN745593483734,2024-10-16,07:02:32,Wednesday,Phishing,Delivery Agent Scam,2400,PhonePe,P2M,acct8371@ybl
+TXN860050905807,2023-10-07,07:38:16,Saturday,Fake UPI App,Customer Care Impersonation,1600,Google Pay,P2M,acct5958@okhdfcbank
+TXN617479335825,2023-10-13,08:01:44,Friday,Remote Access Scam,Job Offer/Part-time Work,31850,Google Pay,Collect Request,user8364@oksbi
+TXN119448938243,2023-05-23,11:06:40,Tuesday,Fake UPI App,Customer Care Impersonation,3700,Google Pay,P2P,acct6174@apl
+TXN842776785203,2024-07-28,08:39:41,Sunday,Vishing,Job Offer/Part-time Work,10350,PhonePe,P2M,txn8738@okicici
+TXN573896962291,2025-03-08,18:42:30,Saturday,Phishing,Job Offer/Part-time Work,1750,PhonePe,P2P,user4714@okhdfcbank
+TXN215738130825,2023-12-21,23:50:22,Thursday,SIM Swap,Loan Offer,19150,Google Pay,P2M,mb1687@apl
+TXN509164421558,2023-10-28,21:10:46,Saturday,Vishing,KYC Update Required,4050,PhonePe,Collect Request,acct6908@oksbi
+TXN265963831708,2023-11-20,08:27:26,Monday,Social Engineering,Delivery Agent Scam,41900,PhonePe,P2P,mb1947@apl
+TXN191489380787,2025-02-26,17:55:19,Wednesday,OTP Sharing,Customer Care Impersonation,3400,Paytm,P2M,user9805@ibl
+TXN816213971338,2024-10-05,10:05:32,Saturday,Fake Collect Request,Refund Processing,6300,PhonePe,Collect Request,user8352@ybl
+TXN209325427254,2024-03-13,23:51:47,Wednesday,Money Mule,Job Offer/Part-time Work,9350,Google Pay,Collect Request,pay7974@axl
+TXN883766095125,2024-06-09,21:30:13,Sunday,QR Code Swap,Electricity Bill Disconnection,4150,Paytm,P2M,acct3119@apl
+TXN438848236181,2024-07-10,13:47:10,Wednesday,Remote Access Scam,Prize/Lottery Win,2500,Google Pay,P2P,txn4532@okicici
+TXN832827808870,2024-10-12,11:55:02,Saturday,QR Code Swap,KYC Update Required,9650,Google Pay,Collect Request,mb7711@axl
+TXN925447169891,2024-10-05,06:42:56,Saturday,QR Code Swap,Job Offer/Part-time Work,2350,Google Pay,P2M,acct9235@okaxis
+TXN693132121536,2023-04-20,10:13:15,Thursday,Fake UPI App,Investment Scheme,19500,PhonePe,P2P,pay5675@okicici
+TXN523073267793,2023-09-05,11:26:43,Tuesday,Phishing,Investment Scheme,7650,PhonePe,P2P,user5412@okaxis
+TXN369646738416,2024-05-21,06:01:26,Tuesday,OTP Sharing,Delivery Agent Scam,25600,PhonePe,P2M,mb7942@apl
+TXN895168743089,2024-07-19,22:39:18,Friday,OTP Sharing,Refund Processing,600,Google Pay,P2P,mb5578@axl
+TXN868349326215,2025-02-27,22:40:16,Thursday,Remote Access Scam,KYC Update Required,14450,PhonePe,P2M,acct7435@apl
+TXN311990227098,2023-05-02,21:52:42,Tuesday,QR Code Swap,KYC Update Required,1250,Google Pay,P2M,user5967@oksbi
+TXN726779882179,2023-05-08,10:57:45,Monday,OTP Sharing,Prize/Lottery Win,900,PhonePe,P2M,pay9570@ybl
+TXN563505962111,2024-12-20,10:35:56,Friday,QR Code Swap,Customer Care Impersonation,92000,PhonePe,Collect Request,mb8354@ibl
+TXN672663401870,2024-03-08,07:36:51,Friday,Phishing,Electricity Bill Disconnection,21300,PhonePe,P2P,pay2194@paytm
+TXN965863585178,2023-06-27,22:58:02,Tuesday,Vishing,Electricity Bill Disconnection,47700,PhonePe,P2P,mb1173@paytm
+TXN976764628140,2024-12-26,16:21:41,Thursday,Social Engineering,Electricity Bill Disconnection,17450,PhonePe,P2M,user1991@okicici
+TXN964152836923,2025-01-27,18:19:37,Monday,Social Engineering,Electricity Bill Disconnection,12400,BHIM,P2M,user6595@oksbi
+TXN108546461143,2024-11-13,15:21:39,Wednesday,Vishing,Prize/Lottery Win,2450,PhonePe,P2P,txn1162@okhdfcbank
+TXN818886999284,2023-07-27,08:28:12,Thursday,OTP Sharing,Loan Offer,36800,PhonePe,Collect Request,user6544@oksbi
+TXN746890914545,2024-04-13,19:42:10,Saturday,Remote Access Scam,Delivery Agent Scam,90850,PhonePe,Collect Request,pay9773@ybl
+TXN631263873744,2023-05-25,16:17:55,Thursday,Phishing,KYC Update Required,9800,PhonePe,P2M,acct8762@ybl
+TXN613038787887,2023-10-30,10:12:28,Monday,Fake UPI App,KYC Update Required,3250,Google Pay,P2P,acct7700@ibl
+TXN404278883252,2024-04-26,03:28:14,Friday,Vishing,Prize/Lottery Win,650,PhonePe,P2P,pay3258@apl
+TXN475643857543,2024-01-14,19:50:25,Sunday,Remote Access Scam,Customer Care Impersonation,22400,Google Pay,P2P,user6129@oksbi
+TXN268101303699,2024-06-23,13:35:01,Sunday,Vishing,Prize/Lottery Win,6050,Google Pay,P2P,txn7404@axl
+TXN503973685368,2024-09-29,12:30:06,Sunday,Vishing,Loan Offer,91900,Google Pay,P2P,mb1180@okicici
+TXN590239129169,2023-09-08,23:08:34,Friday,QR Code Swap,Loan Offer,16350,PhonePe,P2P,user7541@oksbi
+TXN362180542522,2024-07-15,13:02:47,Monday,Phishing,Investment Scheme,8750,PhonePe,Collect Request,pay5485@apl
+TXN225630395011,2024-08-18,12:48:35,Sunday,Phishing,KYC Update Required,2450,PhonePe,P2P,pay6359@paytm
+TXN687014844720,2023-06-24,15:15:45,Saturday,Remote Access Scam,Job Offer/Part-time Work,1050,PhonePe,P2P,pay8242@okaxis
+TXN283498232147,2025-03-07,11:03:38,Friday,Phishing,KYC Update Required,22550,PhonePe,P2P,user7810@apl
+TXN943108669731,2024-10-27,16:39:13,Sunday,Social Engineering,Refund Processing,3750,PhonePe,P2P,mb9185@okhdfcbank
+TXN353460157792,2023-07-07,15:40:44,Friday,Vishing,Electricity Bill Disconnection,47750,Google Pay,Collect Request,user3032@ybl
+TXN925872626056,2024-12-25,07:08:23,Wednesday,QR Code Swap,Loan Offer,1250,Google Pay,Collect Request,user4752@ibl
+TXN703840750689,2024-10-04,06:58:42,Friday,Money Mule,KYC Update Required,21400,PhonePe,P2P,pay4871@apl
+TXN631689285641,2024-02-13,09:12:15,Tuesday,QR Code Swap,KYC Update Required,7500,PhonePe,P2M,user7249@axl
+TXN522509440142,2023-09-04,15:11:16,Monday,Vishing,Prize/Lottery Win,3150,PhonePe,P2M,acct6043@okhdfcbank
+TXN833140057272,2024-04-29,21:10:12,Monday,SIM Swap,Electricity Bill Disconnection,99250,Google Pay,P2M,pay5281@paytm
+TXN904481643507,2024-12-07,15:42:53,Saturday,Phishing,Job Offer/Part-time Work,700,Google Pay,Collect Request,acct2456@okhdfcbank
+TXN335425928472,2024-01-01,18:59:47,Monday,Vishing,Electricity Bill Disconnection,2700,Google Pay,P2M,pay4292@okaxis
+TXN969826803572,2024-05-23,13:58:39,Thursday,Phishing,Customer Care Impersonation,5650,PhonePe,P2M,user7154@apl
+TXN683552934230,2024-03-11,16:21:23,Monday,OTP Sharing,Refund Processing,3300,PhonePe,P2P,txn5072@ibl
+TXN903590338399,2024-05-28,16:00:40,Tuesday,Remote Access Scam,Prize/Lottery Win,10250,Google Pay,P2M,acct5814@oksbi
+TXN943460666223,2023-05-03,08:50:05,Wednesday,Vishing,Job Offer/Part-time Work,9500,BHIM,P2M,txn4610@ybl
+TXN418324464518,2024-09-29,16:31:05,Sunday,SIM Swap,Loan Offer,2900,Google Pay,P2P,user2824@okhdfcbank
+TXN606172040665,2024-11-07,12:54:20,Thursday,Remote Access Scam,Delivery Agent Scam,5001,PhonePe,P2P,txn3370@ybl
+TXN330711754554,2023-08-29,16:09:47,Tuesday,OTP Sharing,Investment Scheme,21500,Google Pay,P2P,pay1861@okicici
+TXN881403051485,2025-02-04,21:10:01,Tuesday,Fake Collect Request,Refund Processing,4800,PhonePe,P2M,txn8496@okicici
+TXN229074384926,2025-03-13,14:57:09,Thursday,Phishing,Digital Arrest Threat,13200,Google Pay,P2M,mb6545@axl
+TXN347002489010,2023-05-05,08:25:31,Friday,Vishing,Delivery Agent Scam,6400,Google Pay,P2M,user8856@ybl
+TXN925166680433,2024-08-08,23:44:27,Thursday,Vishing,KYC Update Required,1150,PhonePe,Collect Request,pay2922@okicici
+TXN822814635507,2024-10-20,13:20:07,Sunday,Phishing,Refund Processing,6300,PhonePe,P2P,mb8289@okicici
+TXN517731415907,2024-09-17,21:22:38,Tuesday,Fake Collect Request,Prize/Lottery Win,700,PhonePe,Collect Request,pay7554@paytm
+TXN684650796321,2025-03-12,08:13:04,Wednesday,Fake Collect Request,Electricity Bill Disconnection,4600,Google Pay,Collect Request,user9984@axl
+TXN398721599284,2024-04-06,21:49:17,Saturday,Phishing,Impersonation of Known Person,14500,PhonePe,P2P,mb2623@okaxis
+TXN373922397667,2023-10-03,11:47:43,Tuesday,Remote Access Scam,Loan Offer,9850,PhonePe,P2M,mb7852@paytm
+TXN645158433677,2024-07-23,14:17:27,Tuesday,Fake Collect Request,Investment Scheme,23350,PhonePe,P2M,user7946@apl
+TXN592234921273,2024-09-09,17:43:56,Monday,Fake Collect Request,Loan Offer,550,Google Pay,P2M,pay9577@oksbi
+TXN808494089748,2023-08-15,14:03:27,Tuesday,QR Code Swap,Refund Processing,750,Paytm,Collect Request,mb1580@paytm
+TXN500717377609,2024-03-30,00:29:21,Saturday,Vishing,KYC Update Required,1200,PhonePe,P2M,acct3984@apl
+TXN978301774979,2025-02-01,20:10:08,Saturday,Vishing,Customer Care Impersonation,3450,PhonePe,P2P,pay6322@axl
+TXN227847121583,2023-07-22,22:50:01,Saturday,Phishing,Loan Offer,2050,PhonePe,Collect Request,txn5052@axl
+TXN569595308145,2025-03-18,18:39:11,Tuesday,Phishing,Impersonation of Known Person,45600,PhonePe,Collect Request,acct2005@apl
+TXN461336921845,2023-07-22,10:17:22,Saturday,OTP Sharing,Refund Processing,2200,PhonePe,P2P,txn6920@apl
+TXN270599405826,2025-01-25,10:37:24,Saturday,Phishing,Prize/Lottery Win,1800,Paytm,P2M,user3094@oksbi
+TXN280710686831,2024-03-21,21:28:40,Thursday,OTP Sharing,Refund Processing,27200,Google Pay,P2P,acct9344@axl
+TXN396923851219,2024-12-12,10:11:00,Thursday,Phishing,Prize/Lottery Win,1950,Google Pay,P2M,user5079@oksbi
+TXN958731538802,2025-01-24,11:38:23,Friday,Vishing,Electricity Bill Disconnection,86000,PhonePe,Collect Request,mb2743@axl
+TXN439392813872,2023-11-12,11:13:37,Sunday,Fake Collect Request,KYC Update Required,37950,PhonePe,Collect Request,pay3911@axl
+TXN115460323983,2023-08-25,07:15:29,Friday,Social Engineering,Customer Care Impersonation,56550,PhonePe,P2P,user2742@apl
+TXN569124997593,2023-08-21,13:36:57,Monday,QR Code Swap,KYC Update Required,1200,PhonePe,P2M,acct3414@ibl
+TXN833980350992,2025-03-04,20:52:57,Tuesday,Phishing,Refund Processing,700,PhonePe,P2P,txn5702@ibl
+TXN241711465331,2025-02-06,12:16:51,Thursday,Social Engineering,Customer Care Impersonation,22900,Google Pay,P2P,pay7308@ibl
+TXN358072774592,2024-08-05,17:26:38,Monday,SIM Swap,Job Offer/Part-time Work,4700,Google Pay,P2M,txn1046@oksbi
+TXN157430946470,2024-07-29,22:58:07,Monday,Phishing,Prize/Lottery Win,2550,BHIM,Collect Request,user2208@paytm
+TXN292204652392,2023-08-29,12:05:15,Tuesday,Phishing,Refund Processing,8400,Google Pay,P2M,mb3627@okaxis
+TXN863716304869,2024-10-19,17:16:58,Saturday,Fake Collect Request,KYC Update Required,2950,Google Pay,Collect Request,acct8821@ibl
+TXN720923949300,2023-05-26,19:41:27,Friday,Phishing,KYC Update Required,650,PhonePe,P2P,user8926@okaxis
+TXN417988247295,2024-02-11,00:22:48,Sunday,Vishing,Refund Processing,2800,PhonePe,P2M,pay3482@paytm
+TXN768341524069,2023-11-07,19:41:09,Tuesday,SIM Swap,Delivery Agent Scam,1550,Paytm,P2P,user3496@paytm
+TXN635018636281,2024-02-11,15:51:50,Sunday,Social Engineering,KYC Update Required,8750,PhonePe,P2P,user6955@ybl
+TXN540535369915,2024-06-25,12:54:39,Tuesday,Remote Access Scam,Digital Arrest Threat,4800,Amazon Pay,P2P,user4654@axl
+TXN260932285204,2024-07-21,13:34:57,Sunday,Fake UPI App,Refund Processing,850,Google Pay,P2P,pay6245@okaxis
+TXN572023957025,2024-04-05,19:30:13,Friday,Phishing,Customer Care Impersonation,49850,PhonePe,P2P,txn5864@okicici
+TXN263269689004,2024-08-06,13:44:50,Tuesday,Phishing,Prize/Lottery Win,15800,Google Pay,Collect Request,acct3416@paytm
+TXN503788648868,2023-12-26,14:00:28,Tuesday,Remote Access Scam,Customer Care Impersonation,45800,PhonePe,Collect Request,txn1265@ybl
+TXN781620297617,2025-03-17,14:29:26,Monday,QR Code Swap,Refund Processing,4200,Paytm,P2M,user2435@okhdfcbank
+TXN875863763386,2023-07-16,14:48:39,Sunday,Social Engineering,Delivery Agent Scam,1400,Paytm,P2P,acct1124@ibl
+TXN312134286195,2023-12-31,20:16:19,Sunday,Fake UPI App,Delivery Agent Scam,16800,PhonePe,P2P,mb7444@okaxis
+TXN110468643670,2025-01-11,12:46:11,Saturday,QR Code Swap,Delivery Agent Scam,2650,Google Pay,P2M,mb3507@okaxis
+TXN739884834330,2024-11-06,12:47:46,Wednesday,Phishing,Investment Scheme,4600,PhonePe,P2P,user2817@paytm
+TXN297154624707,2023-08-24,10:57:11,Thursday,Phishing,Customer Care Impersonation,7950,Google Pay,P2P,mb1515@okhdfcbank
+TXN321111680438,2024-12-19,15:00:10,Thursday,Fake Collect Request,Investment Scheme,2500,Google Pay,P2P,user6710@apl
+TXN766181893737,2024-06-20,14:25:59,Thursday,Phishing,Job Offer/Part-time Work,1900,PhonePe,P2M,acct8033@oksbi
+TXN446945373205,2025-01-07,19:28:10,Tuesday,Social Engineering,Refund Processing,66600,Google Pay,Collect Request,user1157@ibl
+TXN644613557750,2024-07-20,15:20:57,Saturday,Vishing,Investment Scheme,1100,PhonePe,P2M,acct1766@ybl
+TXN896351699925,2024-07-07,09:20:37,Sunday,Vishing,KYC Update Required,7350,PhonePe,P2M,txn5500@ibl
+TXN507215650421,2024-10-21,18:31:39,Monday,Phishing,KYC Update Required,3850,Google Pay,Collect Request,mb1080@okaxis
+TXN639711040614,2023-05-20,22:04:16,Saturday,Vishing,Investment Scheme,8100,PhonePe,P2P,txn6274@paytm
+TXN447284436313,2024-01-29,17:22:35,Monday,Fake UPI App,KYC Update Required,4650,BHIM,P2P,txn8438@okicici
+TXN682663361540,2023-11-11,21:24:28,Saturday,Fake UPI App,Electricity Bill Disconnection,8300,PhonePe,Collect Request,acct6766@ybl
+TXN224377836474,2024-06-15,09:25:32,Saturday,QR Code Swap,Refund Processing,3800,Google Pay,P2P,pay2887@okaxis
+TXN913796480365,2023-06-07,14:17:14,Wednesday,Social Engineering,Prize/Lottery Win,16650,Paytm,P2P,txn4909@okicici
+TXN849760701556,2023-10-09,11:29:09,Monday,Remote Access Scam,Investment Scheme,8500,PhonePe,P2M,txn4740@apl
+TXN803207331196,2023-07-06,08:51:47,Thursday,Vishing,Refund Processing,7850,PhonePe,P2P,user3423@axl
+TXN745924539252,2024-08-22,04:36:47,Thursday,OTP Sharing,Investment Scheme,2850,Google Pay,Collect Request,acct5526@ybl
+TXN336399093479,2025-03-19,11:39:07,Wednesday,QR Code Swap,Prize/Lottery Win,3400,Google Pay,P2M,txn3022@okaxis
+TXN802993805730,2024-06-14,11:53:00,Friday,Phishing,Loan Offer,1100,Google Pay,Collect Request,acct7923@axl
+TXN446578663878,2024-12-02,11:36:27,Monday,OTP Sharing,Refund Processing,4350,PhonePe,P2P,mb6858@paytm
+TXN604736002246,2024-06-04,22:29:01,Tuesday,Social Engineering,Refund Processing,1350,Google Pay,P2M,user2387@okaxis
+TXN108317338227,2024-11-29,07:18:36,Friday,QR Code Swap,Job Offer/Part-time Work,2250,Google Pay,P2M,acct4288@okhdfcbank
+TXN124207282522,2024-12-09,20:33:06,Monday,Vishing,Digital Arrest Threat,550,PhonePe,P2P,pay3321@oksbi
+TXN144858697395,2023-10-23,13:18:18,Monday,OTP Sharing,Delivery Agent Scam,82300,Google Pay,P2M,txn3282@paytm
+TXN812274479362,2023-09-10,12:54:55,Sunday,QR Code Swap,Job Offer/Part-time Work,4900,PhonePe,P2M,acct7168@paytm
+TXN292761376717,2025-02-03,14:08:44,Monday,Vishing,Prize/Lottery Win,72800,PhonePe,P2M,acct7882@okhdfcbank
+TXN971056614497,2023-05-09,20:04:28,Tuesday,SIM Swap,Job Offer/Part-time Work,5250,PhonePe,Collect Request,pay2409@okaxis
+TXN570036402204,2023-08-22,21:23:49,Tuesday,QR Code Swap,Prize/Lottery Win,5600,Google Pay,P2M,acct2161@okhdfcbank
+TXN162786601848,2023-07-13,08:14:03,Thursday,Fake Collect Request,Investment Scheme,2900,PhonePe,P2P,mb2816@paytm
+TXN914317843435,2024-03-12,13:12:21,Tuesday,Social Engineering,Prize/Lottery Win,900,Google Pay,Collect Request,mb2320@apl
+TXN240425847832,2023-05-13,08:31:32,Saturday,Vishing,Delivery Agent Scam,3950,PhonePe,P2P,acct7993@apl
+TXN148458380763,2023-07-30,21:57:23,Sunday,Vishing,Delivery Agent Scam,2250,PhonePe,P2M,txn6728@oksbi
+TXN478189039683,2024-08-03,16:42:04,Saturday,Phishing,Loan Offer,63500,Paytm,P2P,acct8966@ybl
+TXN522549998744,2024-09-15,10:47:35,Sunday,Phishing,KYC Update Required,2600,Google Pay,Collect Request,acct1727@oksbi
+TXN163361078655,2025-02-04,13:03:42,Tuesday,Vishing,Refund Processing,7850,PhonePe,Collect Request,user7358@ybl
+TXN820620033728,2024-11-07,17:49:33,Thursday,Vishing,Impersonation of Known Person,80650,PhonePe,P2M,mb1202@okhdfcbank
+TXN291685842884,2023-10-01,13:01:28,Sunday,Phishing,Refund Processing,1250,PhonePe,Collect Request,pay1812@oksbi
+TXN728464478520,2025-03-01,14:28:37,Saturday,Vishing,Investment Scheme,6850,PhonePe,P2M,txn7815@okhdfcbank
+TXN481018747564,2023-04-26,11:50:23,Wednesday,Vishing,Refund Processing,4650,PhonePe,P2P,pay7206@okaxis
+TXN945245294432,2023-06-19,22:14:36,Monday,QR Code Swap,Electricity Bill Disconnection,9500,Paytm,P2M,txn4782@paytm
+TXN416950787890,2024-06-29,18:56:26,Saturday,Vishing,Prize/Lottery Win,4050,PhonePe,P2M,txn6142@okhdfcbank
+TXN488361073404,2024-08-30,23:36:31,Friday,OTP Sharing,Loan Offer,24750,PhonePe,P2M,pay7591@apl
+TXN192382057852,2024-03-10,21:57:21,Sunday,Fake Collect Request,Loan Offer,5350,Paytm,P2M,pay1127@ibl
+TXN573351269216,2024-06-23,09:46:37,Sunday,Vishing,Investment Scheme,13800,Paytm,P2M,mb5558@ibl
+TXN978483659648,2023-09-17,08:17:31,Sunday,QR Code Swap,Refund Processing,34450,PhonePe,P2P,pay1109@paytm
+TXN343925453125,2024-01-14,22:36:27,Sunday,SIM Swap,Customer Care Impersonation,8700,Google Pay,P2P,user6359@okicici
+TXN839680167741,2024-07-08,16:32:43,Monday,SIM Swap,Prize/Lottery Win,15150,Google Pay,P2M,pay5346@paytm
+TXN835694035930,2024-08-21,10:12:40,Wednesday,Fake UPI App,Prize/Lottery Win,97400,Google Pay,P2P,acct9031@axl
+TXN553553093920,2024-08-05,11:14:07,Monday,Remote Access Scam,Impersonation of Known Person,34400,PhonePe,P2P,pay1474@ybl
+TXN778468492207,2024-05-23,06:49:20,Thursday,Vishing,Prize/Lottery Win,3600,PhonePe,P2M,mb6401@okicici
+TXN138713292846,2023-04-22,19:05:49,Saturday,OTP Sharing,Delivery Agent Scam,43100,Google Pay,Collect Request,user9627@okhdfcbank
+TXN763751538563,2023-05-14,09:19:01,Sunday,Vishing,Delivery Agent Scam,14050,PhonePe,P2P,pay2565@axl
+TXN700276227328,2024-06-09,14:01:19,Sunday,Vishing,Customer Care Impersonation,1050,PhonePe,P2P,user8409@oksbi
+TXN552054000272,2023-11-24,13:30:36,Friday,Phishing,Customer Care Impersonation,2600,PhonePe,Collect Request,txn6535@okicici
+TXN236357260643,2023-04-06,10:13:48,Thursday,Fake Collect Request,Investment Scheme,9100,Google Pay,P2M,pay4233@paytm
+TXN777757924167,2024-08-20,09:51:33,Tuesday,QR Code Swap,Investment Scheme,18950,Amazon Pay,P2M,txn9509@ybl
+TXN797289885247,2024-03-04,21:46:54,Monday,Social Engineering,Digital Arrest Threat,1950,PhonePe,P2P,mb4703@ibl
+TXN462421995637,2024-01-17,19:55:27,Wednesday,Fake Collect Request,Electricity Bill Disconnection,4550,Google Pay,P2P,mb5542@paytm
+TXN622724340244,2023-11-24,23:05:59,Friday,SIM Swap,Delivery Agent Scam,850,BHIM,P2P,txn6107@apl
+TXN716830207316,2024-12-10,20:10:40,Tuesday,Fake UPI App,Investment Scheme,23750,PhonePe,P2P,pay7266@ibl
+TXN794099125997,2024-06-26,12:12:00,Wednesday,Fake Collect Request,Electricity Bill Disconnection,3500,PhonePe,P2M,acct9033@okicici
+TXN287730052509,2023-05-10,12:39:57,Wednesday,OTP Sharing,Electricity Bill Disconnection,12900,Google Pay,P2P,mb7000@apl
+TXN197479832680,2025-02-12,17:04:12,Wednesday,Fake UPI App,Prize/Lottery Win,7200,PhonePe,P2M,mb8585@okhdfcbank
+TXN294506512744,2023-06-28,09:37:40,Wednesday,Remote Access Scam,Refund Processing,22900,Paytm,Collect Request,txn3300@ibl
+TXN850807134230,2024-01-05,20:11:18,Friday,Vishing,Electricity Bill Disconnection,2400,Google Pay,P2P,txn4398@ibl
+TXN467114459611,2024-09-07,18:16:13,Saturday,QR Code Swap,Job Offer/Part-time Work,750,PhonePe,P2P,txn2641@okicici
+TXN218141496875,2024-07-22,15:48:01,Monday,QR Code Swap,Refund Processing,9850,Google Pay,P2P,acct7977@ybl
+TXN292770822769,2023-09-15,14:59:19,Friday,Social Engineering,Impersonation of Known Person,84350,PhonePe,P2P,txn6038@okhdfcbank
+TXN947826044125,2024-06-21,07:15:09,Friday,OTP Sharing,Prize/Lottery Win,16150,Google Pay,P2P,txn5639@axl
+TXN818909091622,2023-06-13,11:42:47,Tuesday,Remote Access Scam,Electricity Bill Disconnection,1750,Google Pay,P2P,pay7974@okicici
+TXN632625717625,2025-02-20,19:02:16,Thursday,Remote Access Scam,Loan Offer,2650,Google Pay,P2P,acct7921@okaxis
+TXN901503260846,2025-01-09,08:51:51,Thursday,Social Engineering,Customer Care Impersonation,8900,PhonePe,P2P,acct8125@okaxis
+TXN290046404645,2023-08-03,20:29:23,Thursday,Phishing,Prize/Lottery Win,8050,Google Pay,P2M,user9765@okhdfcbank
+TXN382380214225,2024-06-15,21:22:29,Saturday,OTP Sharing,Loan Offer,4150,PhonePe,P2M,user8101@okhdfcbank
+TXN244556628194,2024-12-21,14:54:50,Saturday,Vishing,Prize/Lottery Win,16150,PhonePe,P2M,txn5375@paytm
+TXN528092214959,2023-11-13,10:45:20,Monday,Vishing,Impersonation of Known Person,10000,PhonePe,P2P,txn7601@okaxis
+TXN513324968984,2024-10-26,23:05:13,Saturday,SIM Swap,Prize/Lottery Win,7500,PhonePe,P2M,mb3157@axl
+TXN642900899916,2024-05-10,10:07:36,Friday,Vishing,Refund Processing,49050,PhonePe,Collect Request,acct5690@paytm
+TXN281462113811,2024-01-21,00:53:21,Sunday,SIM Swap,Electricity Bill Disconnection,5800,PhonePe,P2M,mb8731@okhdfcbank
+TXN806523043344,2024-10-17,14:12:54,Thursday,Social Engineering,Refund Processing,4950,Paytm,P2P,user6427@okicici
+TXN898100769028,2023-04-08,18:43:43,Saturday,QR Code Swap,KYC Update Required,8850,PhonePe,P2M,user6953@axl
+TXN423593328257,2023-08-06,08:54:16,Sunday,SIM Swap,Customer Care Impersonation,5900,PhonePe,P2P,acct6417@paytm
+TXN335582903916,2023-08-22,09:18:01,Tuesday,Vishing,Loan Offer,3500,Google Pay,P2P,mb5963@okicici
+TXN473940265051,2024-04-07,17:47:55,Sunday,Money Mule,Job Offer/Part-time Work,4550,Google Pay,P2M,pay6067@oksbi
+TXN688245834109,2024-12-14,19:50:07,Saturday,OTP Sharing,Delivery Agent Scam,3900,Google Pay,Collect Request,mb2301@okaxis
+TXN738926552621,2023-12-07,10:47:11,Thursday,OTP Sharing,Refund Processing,7000,BHIM,P2P,acct8606@okhdfcbank
+TXN374880033478,2025-01-09,07:30:07,Thursday,QR Code Swap,Investment Scheme,5800,Google Pay,P2M,acct5435@paytm
+TXN475565677096,2024-08-07,14:41:19,Wednesday,Vishing,Impersonation of Known Person,7800,PhonePe,Collect Request,mb3992@oksbi
+TXN956489103116,2024-02-09,14:20:49,Friday,Fake Collect Request,Customer Care Impersonation,1100,PhonePe,P2P,txn4747@ybl
+TXN382250960057,2023-08-27,11:46:22,Sunday,Fake UPI App,Digital Arrest Threat,3250,Google Pay,P2P,txn7119@okaxis
+TXN746850871858,2024-02-28,15:47:12,Wednesday,SIM Swap,Loan Offer,8600,PhonePe,P2M,acct1971@okhdfcbank
+TXN250417708169,2024-10-02,12:59:18,Wednesday,Phishing,Refund Processing,650,PhonePe,P2P,user6143@ibl
+TXN459910864516,2024-02-23,13:29:23,Friday,Vishing,Customer Care Impersonation,7100,PhonePe,P2P,mb9061@ybl
+TXN734142643521,2023-06-17,15:35:49,Saturday,Phishing,Loan Offer,1550,Google Pay,Collect Request,txn8439@apl
+TXN435892831579,2024-11-09,11:39:53,Saturday,Vishing,Customer Care Impersonation,1150,Google Pay,P2P,pay2653@okaxis
+TXN330811167830,2024-10-05,11:04:20,Saturday,Fake UPI App,Prize/Lottery Win,46550,PhonePe,Collect Request,acct1806@paytm
+TXN119142470621,2023-10-28,18:37:52,Saturday,Phishing,Customer Care Impersonation,83200,Google Pay,P2P,user7226@axl
+TXN269731189169,2024-04-04,22:53:04,Thursday,QR Code Swap,KYC Update Required,14950,Google Pay,Collect Request,pay8697@okaxis
+TXN129133918088,2024-04-15,16:52:10,Monday,QR Code Swap,KYC Update Required,1550,PhonePe,Collect Request,txn1466@paytm
+TXN383050727000,2023-05-18,14:48:38,Thursday,OTP Sharing,Customer Care Impersonation,700,Amazon Pay,P2P,pay6290@apl
+TXN733580279811,2024-08-17,18:54:36,Saturday,Phishing,Refund Processing,750,Google Pay,P2M,txn3157@ibl
+TXN544860692989,2024-11-14,18:54:02,Thursday,SIM Swap,Delivery Agent Scam,20350,PhonePe,P2P,acct4519@paytm
+TXN239772489895,2024-06-24,08:17:41,Monday,SIM Swap,Customer Care Impersonation,36050,Paytm,P2M,user4721@paytm
+TXN677804362127,2025-03-30,11:55:22,Sunday,Vishing,Job Offer/Part-time Work,2350,Google Pay,Collect Request,user9735@ibl
+TXN890858612875,2023-09-18,12:06:43,Monday,Phishing,Investment Scheme,6850,Paytm,P2M,txn1005@okhdfcbank
+TXN541920517361,2024-12-18,15:04:03,Wednesday,SIM Swap,Delivery Agent Scam,1500,BHIM,P2P,user3487@oksbi
+TXN221356243873,2024-03-01,00:07:33,Friday,Vishing,Electricity Bill Disconnection,1800,Google Pay,P2M,acct7978@okicici
+TXN378469771979,2024-09-17,08:46:38,Tuesday,Remote Access Scam,Electricity Bill Disconnection,32900,BHIM,P2P,txn2361@okaxis
+TXN841225980190,2024-11-20,14:37:27,Wednesday,OTP Sharing,Electricity Bill Disconnection,1950,Google Pay,Collect Request,mb7911@axl
+TXN480890634949,2024-07-15,15:33:02,Monday,Remote Access Scam,Electricity Bill Disconnection,20300,PhonePe,P2P,txn5074@ybl
+TXN438566615952,2024-07-13,17:40:16,Saturday,SIM Swap,Delivery Agent Scam,1650,PhonePe,P2P,user2481@axl
+TXN199637312553,2024-04-26,09:54:45,Friday,QR Code Swap,Job Offer/Part-time Work,3800,PhonePe,P2P,user7629@ybl
+TXN339708676028,2024-03-28,12:58:24,Thursday,Phishing,Prize/Lottery Win,69250,PhonePe,Collect Request,pay1203@ybl
+TXN864324181290,2024-06-23,12:35:36,Sunday,Phishing,Loan Offer,1550,BHIM,P2M,pay6270@oksbi
+TXN815365440842,2024-09-01,17:34:20,Sunday,Phishing,Customer Care Impersonation,13750,Google Pay,Collect Request,user6695@paytm
+TXN747171348958,2023-06-06,22:17:36,Tuesday,Vishing,Prize/Lottery Win,25900,Paytm,Collect Request,txn1111@okaxis
+TXN477301132545,2024-12-19,06:26:46,Thursday,Phishing,Loan Offer,1750,PhonePe,Collect Request,pay2570@ybl
+TXN436659952875,2023-12-15,14:11:16,Friday,QR Code Swap,Electricity Bill Disconnection,4650,Google Pay,P2P,user7141@okhdfcbank
+TXN443314980856,2023-10-04,14:22:06,Wednesday,Fake UPI App,Job Offer/Part-time Work,44650,Google Pay,P2M,txn2765@ibl
+TXN627942210356,2023-07-12,14:38:09,Wednesday,Money Mule,Job Offer/Part-time Work,39900,PhonePe,P2P,mb2618@apl
+TXN947342045877,2024-10-28,15:34:33,Monday,Vishing,Customer Care Impersonation,6650,PhonePe,P2M,user9643@okaxis
+TXN602934875310,2024-11-22,18:36:34,Friday,Phishing,KYC Update Required,2200,PhonePe,Collect Request,pay4630@ibl
+TXN567817191363,2023-10-29,15:39:00,Sunday,Phishing,Refund Processing,4800,Google Pay,Collect Request,mb6074@oksbi
+TXN382351549231,2024-05-30,19:24:17,Thursday,Fake UPI App,KYC Update Required,1500,PhonePe,P2M,acct5666@apl
+TXN585944448426,2023-07-21,18:25:52,Friday,Social Engineering,KYC Update Required,700,Amazon Pay,P2M,mb1672@apl
+TXN762480563971,2023-05-15,15:09:21,Monday,Fake UPI App,Refund Processing,2700,PhonePe,P2P,mb5715@apl
+TXN179652670491,2024-02-20,06:43:04,Tuesday,QR Code Swap,KYC Update Required,6400,Paytm,P2M,user8805@axl
+TXN602693945494,2023-11-30,17:39:16,Thursday,Vishing,Refund Processing,338550,Paytm,P2P,acct9871@oksbi
+TXN703285605914,2023-10-31,22:26:56,Tuesday,QR Code Swap,Job Offer/Part-time Work,17250,Google Pay,P2P,acct7140@ybl
+TXN721398574914,2024-07-25,08:41:28,Thursday,Vishing,Electricity Bill Disconnection,22700,PhonePe,Collect Request,pay7584@oksbi
+TXN435922328033,2024-07-23,10:47:08,Tuesday,SIM Swap,KYC Update Required,9350,Google Pay,P2P,user6946@ibl
+TXN246198016777,2024-03-12,17:18:19,Tuesday,Phishing,Electricity Bill Disconnection,6250,PhonePe,P2M,acct8746@axl
+TXN838564356050,2024-11-21,17:52:23,Thursday,Social Engineering,Refund Processing,6500,Google Pay,P2P,pay6254@ybl
+TXN824817671838,2023-04-17,16:37:26,Monday,Money Mule,Investment Scheme,3050,Paytm,P2M,acct2314@ibl
+TXN191339663037,2024-12-30,00:36:01,Monday,Vishing,Delivery Agent Scam,1450,Google Pay,P2P,acct2389@ibl
+TXN218820004286,2023-08-10,19:06:15,Thursday,Phishing,Loan Offer,2650,PhonePe,P2M,mb2998@okaxis
+TXN654845040247,2023-10-08,07:05:00,Sunday,QR Code Swap,Prize/Lottery Win,6700,Google Pay,P2M,user2303@okicici
+TXN851482435008,2024-10-07,15:12:44,Monday,Phishing,Electricity Bill Disconnection,13100,PhonePe,P2M,txn5611@okicici
+TXN595291608392,2024-08-18,11:46:03,Sunday,Fake Collect Request,Refund Processing,11300,BHIM,P2M,txn8871@ibl
+TXN517972144791,2024-02-15,15:47:12,Thursday,Vishing,Digital Arrest Threat,1900,Paytm,Collect Request,pay7544@ibl
+TXN173469759984,2023-09-02,15:11:13,Saturday,Phishing,Investment Scheme,2600,PhonePe,Collect Request,txn8810@ybl
+TXN328690300453,2024-08-19,19:26:31,Monday,Phishing,Job Offer/Part-time Work,2650,Google Pay,P2M,txn4824@ibl
+TXN639143961424,2024-03-14,15:21:44,Thursday,Phishing,Delivery Agent Scam,1150,Google Pay,P2M,acct5358@okhdfcbank
+TXN763991581013,2024-01-08,17:23:54,Monday,SIM Swap,Refund Processing,6850,PhonePe,P2P,user5843@okaxis
+TXN599391103461,2024-01-15,10:24:27,Monday,OTP Sharing,KYC Update Required,34750,Google Pay,P2M,txn4240@paytm
+TXN162327312864,2024-02-25,22:07:03,Sunday,Fake UPI App,Refund Processing,8000,PhonePe,P2P,pay9137@okhdfcbank
+TXN350228036034,2023-07-14,14:45:15,Friday,Phishing,Job Offer/Part-time Work,3450,PhonePe,P2M,pay1925@apl
+TXN482282808566,2024-08-03,05:14:48,Saturday,Vishing,Delivery Agent Scam,800,Google Pay,P2P,user7031@apl
+TXN545688827887,2023-09-03,14:58:40,Sunday,SIM Swap,Prize/Lottery Win,4300,Google Pay,P2P,pay4028@okhdfcbank
+TXN646347124701,2023-10-28,09:36:47,Saturday,SIM Swap,Prize/Lottery Win,21050,PhonePe,P2M,acct6363@paytm
+TXN308932000332,2024-08-04,15:18:50,Sunday,Money Mule,KYC Update Required,33150,PhonePe,P2P,acct7108@okhdfcbank
+TXN626405067331,2024-01-30,18:57:07,Tuesday,Vishing,Impersonation of Known Person,2850,Google Pay,Collect Request,user3511@oksbi
+TXN150037151638,2023-05-01,05:27:53,Monday,QR Code Swap,Refund Processing,550,Google Pay,P2P,mb8132@apl
+TXN644985948120,2024-01-19,12:38:23,Friday,QR Code Swap,Electricity Bill Disconnection,6350,Google Pay,P2P,mb7681@ibl
+TXN863751208644,2023-08-19,11:22:41,Saturday,QR Code Swap,Prize/Lottery Win,24100,Paytm,Collect Request,acct2339@axl
+TXN345270234753,2023-05-13,14:36:00,Saturday,Vishing,Delivery Agent Scam,6350,PhonePe,P2P,acct3551@oksbi
+TXN494900229484,2024-08-20,08:04:44,Tuesday,Remote Access Scam,KYC Update Required,3650,BHIM,P2P,acct1173@ybl
+TXN516729201130,2023-10-31,11:39:37,Tuesday,Social Engineering,Loan Offer,9850,PhonePe,P2P,user8986@okhdfcbank
+TXN587505822916,2023-07-04,07:46:53,Tuesday,OTP Sharing,Job Offer/Part-time Work,39900,PhonePe,P2P,user9225@okicici
+TXN946867184268,2024-09-30,16:03:16,Monday,Fake Collect Request,Customer Care Impersonation,18050,PhonePe,P2M,acct1718@ybl
+TXN405086717756,2025-02-28,15:31:14,Friday,OTP Sharing,KYC Update Required,24950,BHIM,P2M,acct7918@okhdfcbank
+TXN427050537850,2025-02-09,12:25:32,Sunday,Social Engineering,Digital Arrest Threat,29500,Google Pay,P2P,pay7401@okaxis
+TXN662030167406,2023-04-13,08:42:17,Thursday,Fake Collect Request,Customer Care Impersonation,800,PhonePe,P2M,pay2114@paytm
+TXN971660983787,2023-12-09,16:26:53,Saturday,Fake Collect Request,Prize/Lottery Win,67200,PhonePe,P2P,mb7660@okicici
+TXN523001826409,2024-08-22,18:27:38,Thursday,Phishing,Refund Processing,650,PhonePe,P2P,mb3248@paytm
+TXN942622559053,2024-03-16,14:39:40,Saturday,Phishing,Prize/Lottery Win,7200,Paytm,P2P,mb3281@ybl
+TXN260380089368,2024-10-18,11:51:29,Friday,Fake Collect Request,Refund Processing,2000,Google Pay,P2M,txn2180@ybl
+TXN983733005202,2024-05-07,00:12:51,Tuesday,Social Engineering,Refund Processing,39900,Google Pay,P2P,user1672@okhdfcbank
+TXN705688975688,2024-09-30,10:50:06,Monday,Social Engineering,Loan Offer,6700,PhonePe,Collect Request,mb6189@oksbi
+TXN524555754325,2024-10-06,16:10:05,Sunday,Fake Collect Request,Electricity Bill Disconnection,7200,PhonePe,P2P,acct4496@oksbi
+TXN850326186045,2025-03-30,13:09:47,Sunday,Social Engineering,Delivery Agent Scam,49600,Paytm,P2M,acct3758@axl
+TXN381051331226,2024-03-27,12:15:45,Wednesday,Vishing,KYC Update Required,4450,Google Pay,P2M,txn4744@ybl
+TXN305797493516,2023-09-09,09:54:37,Saturday,OTP Sharing,Impersonation of Known Person,6600,Google Pay,P2P,pay7708@ybl
+TXN684883194333,2023-11-24,20:39:03,Friday,Fake Collect Request,Investment Scheme,24300,Google Pay,Collect Request,user8578@apl
+TXN882155962475,2024-09-28,21:15:50,Saturday,Phishing,KYC Update Required,33900,PhonePe,P2P,pay3655@okaxis
+TXN239585263297,2023-04-01,11:33:51,Saturday,QR Code Swap,Refund Processing,19000,BHIM,Collect Request,user4389@okhdfcbank
+TXN633662227618,2023-07-28,16:26:24,Friday,Vishing,Customer Care Impersonation,3300,Google Pay,P2M,acct8640@paytm
+TXN462291153376,2023-08-12,12:03:15,Saturday,Remote Access Scam,Customer Care Impersonation,28300,PhonePe,P2M,pay6084@apl
+TXN901217515084,2023-08-28,18:35:17,Monday,Phishing,Refund Processing,9250,Google Pay,P2P,mb9289@okhdfcbank
+TXN276378107365,2025-02-05,17:46:46,Wednesday,OTP Sharing,Impersonation of Known Person,900,PhonePe,P2P,user5350@paytm
+TXN407874428834,2023-09-17,21:31:07,Sunday,Phishing,Job Offer/Part-time Work,3400,BHIM,P2P,mb5018@oksbi
+TXN552530608738,2024-01-04,11:32:19,Thursday,QR Code Swap,Job Offer/Part-time Work,16650,PhonePe,Collect Request,acct7869@ibl
+TXN367518341296,2023-09-14,16:59:42,Thursday,Phishing,Impersonation of Known Person,2250,PhonePe,P2P,mb3701@ibl
+TXN831678819537,2023-06-24,08:05:50,Saturday,SIM Swap,Digital Arrest Threat,1400,Google Pay,P2M,mb2433@okaxis
+TXN872132363439,2023-07-12,05:37:05,Wednesday,Money Mule,Refund Processing,6600,PhonePe,P2P,mb2574@paytm
+TXN259419385522,2023-05-03,12:21:42,Wednesday,Phishing,Delivery Agent Scam,8700,Google Pay,P2P,user8355@okicici
+TXN303536606385,2024-03-06,17:37:15,Wednesday,OTP Sharing,Loan Offer,2500,Google Pay,P2P,acct8594@axl
+TXN300664240999,2024-02-29,18:45:27,Thursday,OTP Sharing,Customer Care Impersonation,99250,Google Pay,Collect Request,acct1629@okaxis
+TXN894414943048,2024-03-11,00:30:49,Monday,Fake UPI App,Customer Care Impersonation,6750,Google Pay,P2P,mb9964@ybl
+TXN381662081479,2024-01-17,11:26:37,Wednesday,Fake Collect Request,Impersonation of Known Person,17800,Paytm,P2M,acct5347@okaxis
+TXN708430601575,2023-11-14,22:28:15,Tuesday,Vishing,Job Offer/Part-time Work,2300,Google Pay,P2P,txn2898@oksbi
+TXN862538456066,2024-10-10,16:00:43,Thursday,QR Code Swap,Electricity Bill Disconnection,3000,Google Pay,P2P,mb2123@okhdfcbank
+TXN697813492143,2023-12-02,07:49:50,Saturday,SIM Swap,Customer Care Impersonation,2750,Google Pay,P2M,txn1298@okhdfcbank
+TXN352306355987,2024-03-16,09:52:44,Saturday,Fake Collect Request,Delivery Agent Scam,7900,PhonePe,Collect Request,acct8501@axl
+TXN709868758900,2023-05-13,05:12:00,Saturday,Fake Collect Request,Investment Scheme,1850,Google Pay,Collect Request,txn2962@okaxis
+TXN457707017893,2024-10-01,19:18:02,Tuesday,Fake UPI App,Refund Processing,1100,Google Pay,Collect Request,pay2524@okicici
+TXN429243172232,2023-07-26,07:16:49,Wednesday,Vishing,Delivery Agent Scam,31000,PhonePe,P2P,user7613@okaxis
+TXN791935869243,2025-02-02,11:47:03,Sunday,Phishing,KYC Update Required,1700,Google Pay,P2P,user8705@oksbi
+TXN775379444078,2023-12-01,23:00:43,Friday,Fake Collect Request,Electricity Bill Disconnection,5000,PhonePe,P2P,user7884@ybl
+TXN886881838614,2023-07-27,12:12:47,Thursday,Vishing,Prize/Lottery Win,900,PhonePe,P2M,user1225@axl
+TXN577917750435,2024-07-01,08:46:41,Monday,SIM Swap,Investment Scheme,35650,PhonePe,P2M,user5130@okaxis
+TXN398030335767,2023-06-02,19:53:03,Friday,SIM Swap,KYC Update Required,6650,PhonePe,P2P,pay8870@oksbi
+TXN369765650983,2023-11-27,16:24:14,Monday,Money Mule,Electricity Bill Disconnection,6200,Google Pay,P2P,mb9682@okicici
+TXN784926399593,2023-08-31,22:20:49,Thursday,OTP Sharing,Customer Care Impersonation,9650,Google Pay,P2M,pay5012@ibl
+TXN908401889043,2024-07-26,18:34:21,Friday,QR Code Swap,KYC Update Required,4300,PhonePe,P2P,pay4579@ibl
+TXN867756870798,2023-04-12,21:26:07,Wednesday,Money Mule,Prize/Lottery Win,8700,Google Pay,P2P,user9020@oksbi
+TXN315646317568,2023-06-30,14:14:59,Friday,Fake Collect Request,KYC Update Required,1950,Google Pay,P2P,pay5833@paytm
+TXN332604838756,2024-12-24,08:07:46,Tuesday,Social Engineering,Delivery Agent Scam,1800,PhonePe,P2M,user3518@axl
+TXN588744586006,2025-03-17,19:17:45,Monday,Fake Collect Request,Investment Scheme,9350,Paytm,Collect Request,txn6172@ybl
+TXN977168903647,2023-10-18,12:24:49,Wednesday,Fake Collect Request,Impersonation of Known Person,44050,PhonePe,P2M,pay4940@okaxis
+TXN188247517418,2023-12-04,14:05:21,Monday,Fake Collect Request,Prize/Lottery Win,1050,PhonePe,Collect Request,txn8551@okicici
+TXN794871874438,2023-05-04,18:49:01,Thursday,SIM Swap,Job Offer/Part-time Work,24150,Google Pay,Collect Request,mb1423@okicici
+TXN654224225564,2025-02-17,08:58:32,Monday,OTP Sharing,Refund Processing,14250,Google Pay,P2M,acct8656@okaxis
+TXN146083279772,2025-02-06,10:15:24,Thursday,Vishing,Customer Care Impersonation,3500,PhonePe,P2P,mb1645@paytm
+TXN683751489031,2023-12-03,12:54:39,Sunday,Fake Collect Request,KYC Update Required,5150,Paytm,P2M,user5286@ybl
+TXN930731714158,2024-08-23,20:15:33,Friday,Phishing,Loan Offer,13100,PhonePe,P2P,pay7033@apl
+TXN311715401083,2024-02-12,22:16:05,Monday,QR Code Swap,Loan Offer,1300,PhonePe,P2M,user2386@paytm
+TXN417988817193,2024-01-12,20:32:36,Friday,Remote Access Scam,Prize/Lottery Win,5200,Google Pay,P2M,user5773@oksbi
+TXN845738923675,2024-03-29,09:33:16,Friday,Fake Collect Request,Electricity Bill Disconnection,29000,PhonePe,P2P,pay9070@oksbi
+TXN129293175298,2023-11-18,05:26:54,Saturday,Phishing,Customer Care Impersonation,650,Google Pay,P2P,user2748@ibl
+TXN181853250700,2023-08-09,20:33:59,Wednesday,Phishing,KYC Update Required,7750,PhonePe,Collect Request,txn2161@okhdfcbank
+TXN142665251122,2024-10-04,11:14:25,Friday,Fake Collect Request,Impersonation of Known Person,2100,PhonePe,P2M,txn3130@apl
+TXN197098161351,2024-04-10,16:49:50,Wednesday,Vishing,Loan Offer,8250,Google Pay,P2P,user7328@okicici
+TXN224727318468,2023-11-04,08:11:49,Saturday,Phishing,Electricity Bill Disconnection,36650,PhonePe,P2P,pay5980@apl
+TXN738079504673,2023-10-16,11:15:30,Monday,Fake UPI App,Loan Offer,49150,PhonePe,P2P,user5740@ybl
+TXN424365432448,2024-07-07,23:37:51,Sunday,Phishing,Investment Scheme,21550,Google Pay,Collect Request,pay9769@ibl
+TXN546911844970,2023-08-29,11:06:18,Tuesday,Phishing,KYC Update Required,7550,BHIM,Collect Request,mb1376@apl
+TXN931338823148,2025-01-15,08:48:26,Wednesday,Remote Access Scam,Electricity Bill Disconnection,1400,Amazon Pay,P2P,user5664@okaxis
+TXN571624956304,2023-08-24,21:36:39,Thursday,QR Code Swap,KYC Update Required,800,PhonePe,P2M,user3387@oksbi
+TXN170391448610,2023-08-02,10:12:49,Wednesday,Vishing,Investment Scheme,6950,PhonePe,Collect Request,user2913@axl
+TXN589409048227,2023-06-23,17:52:39,Friday,Vishing,Refund Processing,51650,Google Pay,P2P,acct3353@okaxis
+TXN719166659283,2024-01-02,02:31:28,Tuesday,QR Code Swap,Customer Care Impersonation,2650,Google Pay,P2M,mb2094@ybl
+TXN186335957518,2025-02-19,14:04:12,Wednesday,Phishing,Refund Processing,2350,Google Pay,P2P,mb3676@okaxis
+TXN149436227305,2024-06-06,10:32:42,Thursday,Vishing,Electricity Bill Disconnection,4250,PhonePe,P2P,user8064@ybl
+TXN384298425502,2024-07-06,09:16:53,Saturday,Phishing,Impersonation of Known Person,5900,PhonePe,P2M,mb7879@okicici
+TXN872173305287,2024-08-16,19:43:38,Friday,QR Code Swap,Prize/Lottery Win,24200,Paytm,Collect Request,mb9922@axl
+TXN825305947908,2024-08-02,17:25:55,Friday,Social Engineering,Refund Processing,3650,PhonePe,P2M,txn1243@ibl
+TXN238119005555,2025-03-04,10:36:09,Tuesday,SIM Swap,Electricity Bill Disconnection,6450,PhonePe,P2M,user6421@okaxis
+TXN583848822926,2024-06-17,22:38:45,Monday,OTP Sharing,Job Offer/Part-time Work,7400,Google Pay,P2M,user6848@okicici
+TXN655925382244,2024-07-02,12:12:34,Tuesday,SIM Swap,Loan Offer,5200,PhonePe,P2M,acct3521@okicici
+TXN130229336163,2024-08-18,23:02:50,Sunday,OTP Sharing,Loan Offer,4150,Google Pay,P2P,user3751@ybl
+TXN697836116516,2024-04-18,10:11:59,Thursday,Fake Collect Request,Electricity Bill Disconnection,3600,PhonePe,P2M,mb2689@ibl
+TXN218130847451,2023-06-21,17:58:20,Wednesday,Phishing,Job Offer/Part-time Work,21850,PhonePe,P2P,mb7409@ibl
+TXN630853667296,2024-09-13,10:24:54,Friday,Fake Collect Request,Refund Processing,1150,PhonePe,P2P,pay1768@oksbi
+TXN451549770445,2024-01-01,19:05:53,Monday,Vishing,Loan Offer,2350,PhonePe,P2P,user1263@ybl
+TXN254147171906,2023-06-29,05:22:11,Thursday,QR Code Swap,Loan Offer,6000,Google Pay,Collect Request,txn8014@axl
+TXN294510619038,2024-05-30,19:28:34,Thursday,QR Code Swap,Refund Processing,2700,Amazon Pay,Collect Request,mb3111@ybl
+TXN452211239974,2025-03-10,13:21:01,Monday,Phishing,Prize/Lottery Win,26300,PhonePe,P2M,txn8872@okaxis
+TXN920981730260,2024-10-20,18:43:06,Sunday,Vishing,Job Offer/Part-time Work,4150,Amazon Pay,P2M,user3125@ibl
+TXN556317720121,2024-01-20,09:04:33,Saturday,Phishing,Prize/Lottery Win,21600,PhonePe,P2P,txn9020@okicici
+TXN201441164058,2023-04-25,14:49:30,Tuesday,QR Code Swap,Loan Offer,20900,PhonePe,P2P,mb8431@axl
+TXN334568819406,2024-05-06,06:55:11,Monday,OTP Sharing,Loan Offer,92300,PhonePe,P2M,acct3804@okhdfcbank
+TXN532968101839,2025-01-15,11:35:35,Wednesday,Phishing,Prize/Lottery Win,35650,Google Pay,Collect Request,txn5049@okaxis
+TXN223346154816,2023-12-16,15:49:31,Saturday,Fake Collect Request,Job Offer/Part-time Work,12950,Google Pay,P2P,pay9033@ibl
+TXN583479835557,2023-08-12,09:51:43,Saturday,SIM Swap,Investment Scheme,1250,Google Pay,P2P,txn4450@ibl
+TXN331731070074,2023-11-29,16:25:59,Wednesday,Phishing,Prize/Lottery Win,22300,PhonePe,Collect Request,mb2533@okaxis
+TXN225205973468,2025-02-08,03:19:12,Saturday,QR Code Swap,Customer Care Impersonation,9200,PhonePe,P2P,pay3578@okhdfcbank
+TXN923014406546,2025-02-05,08:07:38,Wednesday,SIM Swap,Loan Offer,5950,PhonePe,P2P,pay1606@ybl
+TXN250246476555,2024-04-24,11:34:00,Wednesday,OTP Sharing,KYC Update Required,4700,Google Pay,P2P,pay5697@axl
+TXN702837383722,2025-03-18,20:22:46,Tuesday,Vishing,Electricity Bill Disconnection,23300,PhonePe,P2M,txn9841@ibl
+TXN124012357589,2023-11-04,20:16:04,Saturday,Social Engineering,Customer Care Impersonation,10400,PhonePe,P2M,acct4738@okicici
+TXN565439447306,2025-01-25,22:06:21,Saturday,Vishing,Refund Processing,60400,PhonePe,P2M,txn2063@ibl
+TXN402359849362,2024-01-17,13:11:15,Wednesday,Vishing,Delivery Agent Scam,12250,PhonePe,P2M,user9011@okicici
+TXN417270218442,2024-10-09,01:06:51,Wednesday,OTP Sharing,Customer Care Impersonation,2450,BHIM,P2M,txn9694@ybl
+TXN585068196637,2024-05-15,09:45:12,Wednesday,Phishing,Electricity Bill Disconnection,6500,PhonePe,P2M,txn8167@axl
+TXN378803203815,2024-03-27,15:33:15,Wednesday,Fake UPI App,Digital Arrest Threat,17800,PhonePe,P2P,user1321@ybl
+TXN537711180656,2024-10-17,07:45:36,Thursday,SIM Swap,Refund Processing,45700,Google Pay,P2M,mb9670@paytm
+TXN908359812364,2024-07-18,15:43:07,Thursday,Fake UPI App,Customer Care Impersonation,4300,BHIM,P2P,mb5736@okhdfcbank
+TXN980353360188,2023-06-08,17:58:16,Thursday,Phishing,Investment Scheme,4700,PhonePe,Collect Request,user4853@ibl
+TXN672759877171,2024-11-19,13:09:57,Tuesday,Phishing,Job Offer/Part-time Work,51450,BHIM,Collect Request,mb4819@paytm
+TXN398888620722,2023-04-12,14:03:51,Wednesday,Phishing,Customer Care Impersonation,8450,Google Pay,Collect Request,pay7938@apl
+TXN859386638930,2024-05-06,15:42:59,Monday,Fake UPI App,KYC Update Required,5400,PhonePe,Collect Request,mb4672@ibl
+TXN110496669989,2024-07-15,15:54:51,Monday,OTP Sharing,Delivery Agent Scam,6500,PhonePe,P2M,pay6538@okhdfcbank
+TXN678759278255,2024-03-30,15:15:52,Saturday,OTP Sharing,Job Offer/Part-time Work,4250,Google Pay,P2P,acct2116@axl
+TXN148312478111,2024-02-02,07:53:07,Friday,Fake Collect Request,Delivery Agent Scam,21900,Google Pay,P2P,txn6262@apl
+TXN924338905639,2024-03-06,19:44:01,Wednesday,Social Engineering,Electricity Bill Disconnection,3150,Google Pay,P2P,user9450@okicici
+TXN691258804217,2025-01-05,05:34:58,Sunday,OTP Sharing,Investment Scheme,40150,PhonePe,P2P,mb5079@axl
+TXN482443165726,2024-08-31,12:19:44,Saturday,Social Engineering,KYC Update Required,1200,PhonePe,P2P,user2153@paytm
+TXN249494899012,2023-11-19,20:34:48,Sunday,SIM Swap,Job Offer/Part-time Work,13400,Google Pay,P2P,txn9689@ybl
+TXN960928862867,2024-04-20,23:43:55,Saturday,Vishing,Prize/Lottery Win,43250,PhonePe,P2P,txn6225@oksbi
+TXN305538131650,2024-06-09,08:54:50,Sunday,Vishing,Refund Processing,24350,Google Pay,P2P,user3865@okicici
+TXN104552530556,2024-06-12,22:30:44,Wednesday,OTP Sharing,Loan Offer,2550,PhonePe,P2P,mb1245@okhdfcbank
+TXN284337942285,2024-08-05,17:35:08,Monday,Phishing,Delivery Agent Scam,1700,Google Pay,P2P,user4340@apl
+TXN977728231849,2024-03-16,10:22:44,Saturday,Fake Collect Request,Refund Processing,4200,Google Pay,P2P,txn1772@okaxis
+TXN582972294171,2025-01-28,12:41:29,Tuesday,Vishing,Digital Arrest Threat,900,PhonePe,Collect Request,acct4379@oksbi
+TXN767380421086,2023-09-21,04:55:53,Thursday,Fake Collect Request,Delivery Agent Scam,2700,PhonePe,P2M,pay6324@apl
+TXN838376989667,2024-12-30,21:21:54,Monday,Vishing,Loan Offer,2150,Google Pay,P2M,txn5286@ybl
+TXN909768266393,2023-11-02,19:56:23,Thursday,OTP Sharing,Impersonation of Known Person,6800,Google Pay,P2M,acct7972@apl
+TXN815355781554,2024-02-08,23:20:30,Thursday,Fake Collect Request,Delivery Agent Scam,1500,PhonePe,P2P,pay8365@okicici
+TXN113387297013,2024-11-02,19:09:07,Saturday,Money Mule,Prize/Lottery Win,9100,Paytm,P2P,pay4768@okicici
+TXN420202836507,2025-03-09,14:29:27,Sunday,Vishing,Customer Care Impersonation,550,Google Pay,Collect Request,txn4997@okhdfcbank
+TXN999237553087,2024-08-07,10:50:48,Wednesday,SIM Swap,Delivery Agent Scam,6150,Google Pay,Collect Request,txn6397@axl
+TXN454513703834,2023-04-21,21:02:27,Friday,QR Code Swap,Refund Processing,37800,Google Pay,Collect Request,user7534@ybl
+TXN721203793440,2024-09-17,16:23:49,Tuesday,Fake Collect Request,Electricity Bill Disconnection,1350,Google Pay,P2M,user8741@apl
+TXN517414007217,2023-05-02,12:37:27,Tuesday,Phishing,Impersonation of Known Person,2300,Google Pay,P2P,user5959@okhdfcbank
+TXN544925199692,2023-08-21,22:50:29,Monday,Vishing,Refund Processing,5950,Google Pay,P2P,pay8139@ybl
+TXN100542965681,2024-12-08,22:21:32,Sunday,Fake Collect Request,KYC Update Required,4900,Google Pay,P2P,mb3318@okicici
+TXN160151261238,2025-03-28,15:46:03,Friday,Phishing,KYC Update Required,4900,PhonePe,P2P,user8954@apl
+TXN295895255444,2025-03-06,10:28:15,Thursday,Phishing,Customer Care Impersonation,138000,Google Pay,P2P,acct2789@okhdfcbank
+TXN442674857292,2023-06-22,18:02:47,Thursday,Vishing,Customer Care Impersonation,78900,PhonePe,P2P,mb6361@ybl
+TXN949981314408,2024-07-23,12:35:36,Tuesday,Phishing,Loan Offer,36300,Google Pay,P2P,user1581@ybl
+TXN579085004766,2024-03-26,18:42:39,Tuesday,QR Code Swap,Customer Care Impersonation,5550,Google Pay,P2M,user8033@paytm
+TXN529711997456,2023-12-14,21:59:34,Thursday,QR Code Swap,Investment Scheme,6450,Google Pay,P2M,txn8356@ibl
+TXN529245060784,2024-05-11,09:36:11,Saturday,OTP Sharing,Loan Offer,550,PhonePe,P2M,user1312@okicici
+TXN493272504302,2025-02-27,12:43:44,Thursday,Phishing,Loan Offer,8350,Google Pay,Collect Request,user1173@okicici
+TXN153905037324,2024-02-22,08:13:55,Thursday,OTP Sharing,Electricity Bill Disconnection,1200,PhonePe,P2M,txn6999@okaxis
+TXN777002212954,2023-04-10,23:18:43,Monday,Fake Collect Request,Impersonation of Known Person,97300,PhonePe,P2P,user4627@ibl
+TXN584116381991,2024-04-02,11:48:15,Tuesday,Social Engineering,Job Offer/Part-time Work,7800,PhonePe,Collect Request,acct5305@okaxis
+TXN112148067070,2023-12-30,17:08:45,Saturday,Social Engineering,Prize/Lottery Win,900,BHIM,P2P,user9081@oksbi
+TXN846632520238,2023-08-12,21:11:18,Saturday,Phishing,Prize/Lottery Win,6500,Google Pay,P2M,user6835@oksbi
+TXN195288436675,2024-05-28,14:15:00,Tuesday,Phishing,Investment Scheme,27900,Google Pay,P2P,pay7938@ybl
+TXN927699014309,2023-11-23,22:15:26,Thursday,OTP Sharing,Customer Care Impersonation,25300,Google Pay,P2P,mb1100@okicici
+TXN724114356550,2023-07-11,16:38:46,Tuesday,OTP Sharing,Job Offer/Part-time Work,1550,Google Pay,P2M,acct8707@okicici
+TXN443090869156,2024-09-11,06:03:48,Wednesday,Money Mule,Digital Arrest Threat,2950,Paytm,P2P,user2572@apl
+TXN732905957886,2023-09-14,00:11:35,Thursday,Phishing,Prize/Lottery Win,2500,Google Pay,P2P,mb4215@okaxis
+TXN376626637244,2023-05-07,16:03:17,Sunday,Social Engineering,Loan Offer,13600,PhonePe,Collect Request,acct4228@okaxis
+TXN922838597582,2024-06-24,13:22:25,Monday,Social Engineering,KYC Update Required,1600,Google Pay,Collect Request,mb4574@okhdfcbank
+TXN521081082098,2024-10-06,19:04:39,Sunday,Vishing,KYC Update Required,1650,PhonePe,P2P,pay7455@okicici
+TXN288319323762,2024-04-05,12:19:37,Friday,Vishing,Refund Processing,14150,PhonePe,P2P,acct3206@axl
+TXN786077669096,2023-08-29,10:50:26,Tuesday,OTP Sharing,Electricity Bill Disconnection,49200,PhonePe,P2P,acct3416@oksbi
+TXN182638974551,2023-12-26,10:35:21,Tuesday,SIM Swap,Refund Processing,48600,BHIM,P2P,user6993@apl
+TXN577771857782,2024-04-17,23:17:23,Wednesday,Fake UPI App,Job Offer/Part-time Work,16400,PhonePe,P2M,txn8736@ybl
+TXN732954551815,2024-04-26,22:04:27,Friday,Phishing,Refund Processing,2300,Google Pay,P2P,acct7505@ybl
+TXN451228473495,2023-12-02,01:55:17,Saturday,Phishing,KYC Update Required,4950,PhonePe,Collect Request,txn4497@okaxis
+TXN273165933024,2025-02-02,18:14:06,Sunday,Remote Access Scam,Refund Processing,5150,PhonePe,P2M,pay6943@ybl
+TXN539933391445,2024-07-15,10:54:43,Monday,OTP Sharing,Electricity Bill Disconnection,5400,Paytm,Collect Request,txn7663@oksbi
+TXN899629200344,2023-07-24,10:03:41,Monday,Fake UPI App,Impersonation of Known Person,45600,Paytm,P2P,pay2076@ybl
+TXN878896890802,2025-02-07,20:12:07,Friday,QR Code Swap,Job Offer/Part-time Work,6850,Paytm,P2M,pay9488@axl
+TXN768311470111,2024-11-10,18:54:31,Sunday,SIM Swap,Investment Scheme,4950,Paytm,P2M,pay1023@ybl
+TXN113308687567,2024-03-28,10:14:27,Thursday,QR Code Swap,Prize/Lottery Win,5300,BHIM,P2P,acct3042@okicici
+TXN242862017986,2025-01-20,20:52:35,Monday,Vishing,Delivery Agent Scam,94400,BHIM,P2M,pay4437@oksbi
+TXN473632339445,2025-03-30,14:40:06,Sunday,SIM Swap,Electricity Bill Disconnection,2650,Google Pay,P2M,pay7088@okaxis
+TXN524234399750,2023-12-07,07:41:07,Thursday,Fake Collect Request,Prize/Lottery Win,4800,PhonePe,P2M,pay7574@okaxis
+TXN462247080508,2023-11-21,15:46:30,Tuesday,OTP Sharing,Delivery Agent Scam,3300,PhonePe,P2M,acct5450@okaxis
+TXN727931886673,2024-11-27,23:37:20,Wednesday,QR Code Swap,Digital Arrest Threat,6500,PhonePe,P2P,pay8045@axl
+TXN488352474492,2024-05-20,05:33:30,Monday,Phishing,Customer Care Impersonation,1500,Amazon Pay,P2P,pay4407@ybl
+TXN625206177705,2025-01-05,18:21:19,Sunday,Phishing,Prize/Lottery Win,94050,PhonePe,P2P,user1818@okaxis
+TXN865855954032,2024-07-19,12:19:34,Friday,OTP Sharing,Customer Care Impersonation,3650,PhonePe,Collect Request,pay8704@oksbi
+TXN326234916171,2024-10-30,13:11:29,Wednesday,QR Code Swap,KYC Update Required,1800,PhonePe,P2P,acct5910@oksbi
+TXN771326377262,2024-09-19,16:35:53,Thursday,Fake Collect Request,Loan Offer,3600,PhonePe,Collect Request,user7480@oksbi
+TXN806664621213,2024-01-08,15:18:14,Monday,Fake Collect Request,Prize/Lottery Win,3700,Google Pay,P2M,mb5417@okhdfcbank
+TXN139194415313,2023-04-09,23:48:36,Sunday,QR Code Swap,Job Offer/Part-time Work,850,PhonePe,Collect Request,pay1166@okaxis
+TXN845726600759,2024-02-06,12:04:09,Tuesday,OTP Sharing,KYC Update Required,2200,PhonePe,P2P,acct1037@apl
+TXN603842731043,2023-06-10,10:23:35,Saturday,Vishing,KYC Update Required,3350,Paytm,P2M,txn4000@ybl
+TXN267719001365,2023-04-20,11:42:28,Thursday,OTP Sharing,Job Offer/Part-time Work,4850,Google Pay,P2P,user8983@paytm
+TXN319897903165,2023-12-26,09:02:19,Tuesday,Phishing,Delivery Agent Scam,2650,Paytm,P2P,pay9524@okicici
+TXN951013386134,2023-08-18,01:21:25,Friday,Fake Collect Request,KYC Update Required,900,PhonePe,P2M,acct6691@ibl
+TXN979357612387,2024-01-10,16:13:03,Wednesday,Phishing,Prize/Lottery Win,32550,PhonePe,P2P,user2488@paytm
+TXN301271897845,2024-01-25,06:23:03,Thursday,QR Code Swap,KYC Update Required,38550,PhonePe,P2M,txn1819@axl
+TXN262089907964,2024-10-01,20:28:09,Tuesday,SIM Swap,Delivery Agent Scam,2600,PhonePe,P2M,pay8953@oksbi
+TXN419909484823,2023-10-08,08:05:05,Sunday,Remote Access Scam,Delivery Agent Scam,1450,Amazon Pay,P2M,user4695@okicici
+TXN844648047394,2025-03-12,11:38:20,Wednesday,SIM Swap,Prize/Lottery Win,28600,PhonePe,P2P,txn5270@axl
+TXN657340533863,2025-03-09,14:12:12,Sunday,Remote Access Scam,Electricity Bill Disconnection,3800,Google Pay,P2M,txn2169@ibl
+TXN192525350668,2023-12-20,16:57:11,Wednesday,Vishing,Customer Care Impersonation,6700,PhonePe,P2P,pay3192@okaxis
+TXN301665702674,2024-11-27,11:04:20,Wednesday,Social Engineering,Customer Care Impersonation,76900,Google Pay,P2M,user8069@axl
+TXN959736040843,2024-12-29,14:41:42,Sunday,Fake Collect Request,Job Offer/Part-time Work,900,Paytm,P2P,user7096@ybl
+TXN723533307650,2024-10-03,09:27:34,Thursday,QR Code Swap,Job Offer/Part-time Work,8300,PhonePe,P2P,mb9156@paytm
+TXN298398746882,2024-02-16,14:49:47,Friday,Remote Access Scam,Loan Offer,7300,Google Pay,P2M,user6007@okhdfcbank
+TXN678491956991,2024-12-17,10:13:50,Tuesday,Remote Access Scam,KYC Update Required,4000,Paytm,Collect Request,user3635@apl
+TXN367448269777,2023-04-21,06:56:27,Friday,QR Code Swap,Prize/Lottery Win,1900,PhonePe,P2P,mb4849@apl
+TXN772169260902,2025-03-06,09:26:53,Thursday,Fake UPI App,Delivery Agent Scam,1650,Google Pay,P2P,acct4339@oksbi
+TXN905341165023,2024-08-30,11:07:56,Friday,OTP Sharing,KYC Update Required,8300,Google Pay,Collect Request,pay6723@okicici
+TXN783222181824,2024-08-01,11:48:47,Thursday,Remote Access Scam,Delivery Agent Scam,1500,Google Pay,P2M,pay8652@paytm
+TXN287963743450,2024-08-28,17:22:37,Wednesday,QR Code Swap,KYC Update Required,46100,PhonePe,P2M,mb6798@okhdfcbank
+TXN565626019122,2023-10-27,11:32:37,Friday,Fake Collect Request,Customer Care Impersonation,72500,Google Pay,P2P,mb5989@okhdfcbank
+TXN606114203223,2023-04-23,15:35:50,Sunday,Fake Collect Request,Refund Processing,4800,Paytm,P2P,mb6625@oksbi
+TXN539790510458,2023-07-19,23:18:49,Wednesday,Fake Collect Request,Investment Scheme,1100,Google Pay,Collect Request,txn2002@okaxis
+TXN556759605665,2024-09-29,20:22:33,Sunday,Phishing,Customer Care Impersonation,4300,Google Pay,P2P,pay1238@okicici
+TXN426376830113,2023-05-19,00:02:43,Friday,Vishing,KYC Update Required,4800,Google Pay,P2M,acct8353@okaxis
+TXN831322372650,2025-01-29,08:30:10,Wednesday,QR Code Swap,KYC Update Required,5300,PhonePe,P2M,txn7913@apl
+TXN424956824097,2024-02-03,22:24:09,Saturday,SIM Swap,Customer Care Impersonation,1150,PhonePe,P2P,acct1481@ybl
+TXN756698226750,2024-05-03,11:18:43,Friday,SIM Swap,Prize/Lottery Win,2900,Google Pay,P2P,user1054@oksbi
+TXN251811096622,2023-07-03,21:04:59,Monday,OTP Sharing,Job Offer/Part-time Work,6150,Google Pay,P2M,txn2661@axl
+TXN906823242358,2024-08-13,12:05:28,Tuesday,Phishing,Customer Care Impersonation,2200,Google Pay,P2P,txn2837@paytm
+TXN662801496003,2025-03-20,19:36:29,Thursday,Phishing,KYC Update Required,4450,Google Pay,P2P,acct9290@apl
+TXN219672722437,2023-09-26,13:30:12,Tuesday,Phishing,Customer Care Impersonation,17100,PhonePe,P2M,txn7960@paytm
+TXN770241063785,2024-04-25,14:47:30,Thursday,QR Code Swap,Delivery Agent Scam,2650,Amazon Pay,P2P,mb1475@okaxis
+TXN428636736154,2024-11-30,15:30:14,Saturday,Fake Collect Request,Electricity Bill Disconnection,6900,PhonePe,P2P,mb8500@ibl
+TXN427008755379,2024-04-14,19:56:31,Sunday,Vishing,Prize/Lottery Win,15700,PhonePe,P2M,mb9854@oksbi
+TXN680722184682,2024-07-17,01:21:48,Wednesday,Fake Collect Request,Job Offer/Part-time Work,3100,Google Pay,P2P,mb6598@axl
+TXN714815149376,2024-11-12,10:31:53,Tuesday,Fake Collect Request,Investment Scheme,3400,Google Pay,P2M,acct7929@oksbi
+TXN687799126680,2025-01-03,19:20:47,Friday,QR Code Swap,KYC Update Required,22350,Google Pay,P2P,pay8771@ybl
+TXN683200800655,2023-08-03,10:27:02,Thursday,Fake Collect Request,Refund Processing,15400,Google Pay,P2P,acct4369@axl
+TXN467866790118,2023-06-20,10:22:32,Tuesday,OTP Sharing,Job Offer/Part-time Work,3000,Google Pay,P2M,acct7153@oksbi
+TXN423193600414,2024-03-31,11:56:07,Sunday,Phishing,Customer Care Impersonation,3600,Google Pay,Collect Request,pay9539@okhdfcbank
+TXN102348758451,2023-06-10,19:43:26,Saturday,Phishing,Job Offer/Part-time Work,45450,Google Pay,P2P,pay9034@oksbi
+TXN789801005776,2024-08-11,12:27:08,Sunday,Social Engineering,Prize/Lottery Win,5850,PhonePe,P2M,user3845@okicici
+TXN718302871473,2024-12-19,14:48:17,Thursday,Fake UPI App,Investment Scheme,15750,Google Pay,P2M,user2731@axl
+TXN115483541178,2024-02-07,22:37:32,Wednesday,SIM Swap,Prize/Lottery Win,41600,Google Pay,Collect Request,mb2846@ibl
+TXN858951971786,2023-04-24,09:08:25,Monday,Phishing,Prize/Lottery Win,2700,Google Pay,Collect Request,acct5458@okhdfcbank
+TXN735368693334,2024-01-03,12:49:15,Wednesday,Fake UPI App,Prize/Lottery Win,5500,BHIM,Collect Request,acct4353@okicici
+TXN820242215273,2024-08-20,20:50:09,Tuesday,Phishing,KYC Update Required,1900,PhonePe,Collect Request,pay1918@okicici
+TXN609448988671,2023-11-29,12:51:26,Wednesday,OTP Sharing,Electricity Bill Disconnection,1250,PhonePe,P2M,user4104@okaxis
+TXN987113287172,2023-07-05,08:34:52,Wednesday,Vishing,Delivery Agent Scam,1550,PhonePe,P2P,user8765@okaxis
+TXN593162287554,2023-12-07,12:09:52,Thursday,Vishing,Prize/Lottery Win,2550,PhonePe,P2P,acct3953@axl
+TXN216418390111,2025-02-19,09:41:40,Wednesday,Vishing,KYC Update Required,750,Google Pay,P2M,mb2809@ibl
+TXN658447262629,2024-06-14,14:25:48,Friday,OTP Sharing,Digital Arrest Threat,23150,PhonePe,Collect Request,pay8181@apl
+TXN659501161334,2024-08-15,11:54:36,Thursday,Phishing,Investment Scheme,2200,Google Pay,Collect Request,acct5430@paytm
+TXN701373476925,2023-07-30,10:33:26,Sunday,Vishing,Job Offer/Part-time Work,2600,PhonePe,P2M,mb7175@oksbi
+TXN841233926773,2023-12-02,15:39:00,Saturday,Phishing,Impersonation of Known Person,9650,Google Pay,P2P,mb8533@okaxis
+TXN192108447877,2024-03-10,11:53:05,Sunday,Remote Access Scam,Electricity Bill Disconnection,42950,PhonePe,P2P,user9575@okhdfcbank
+TXN755442974200,2025-01-21,12:16:21,Tuesday,QR Code Swap,KYC Update Required,23200,PhonePe,Collect Request,txn5642@ybl
+TXN533322183611,2023-08-30,17:06:03,Wednesday,Fake Collect Request,Job Offer/Part-time Work,4650,Google Pay,P2P,pay1551@apl
+TXN226911782710,2024-08-21,10:20:57,Wednesday,Phishing,Digital Arrest Threat,3450,BHIM,P2P,acct2137@okicici
+TXN909892526794,2024-01-19,17:57:25,Friday,Phishing,KYC Update Required,1450,PhonePe,P2P,acct2124@ibl
+TXN429140579969,2025-01-30,21:34:45,Thursday,Vishing,Digital Arrest Threat,8500,Google Pay,P2M,acct1412@okhdfcbank
+TXN606059032046,2023-11-29,00:31:46,Wednesday,SIM Swap,Digital Arrest Threat,6700,PhonePe,P2P,pay7459@paytm
+TXN826195302077,2024-06-02,17:24:59,Sunday,Vishing,Investment Scheme,16550,PhonePe,Collect Request,pay1984@oksbi
+TXN969027698600,2024-05-27,22:06:51,Monday,QR Code Swap,Prize/Lottery Win,8950,PhonePe,P2P,acct5141@ibl
+TXN965808538727,2024-11-09,19:01:25,Saturday,OTP Sharing,Delivery Agent Scam,3150,Google Pay,P2M,txn9199@apl
+TXN228974894062,2024-09-11,10:51:26,Wednesday,Fake Collect Request,KYC Update Required,312400,PhonePe,P2P,acct1834@ybl
+TXN116915120538,2023-04-05,19:15:31,Wednesday,Phishing,Loan Offer,20500,PhonePe,P2P,pay5879@paytm
+TXN736078309319,2025-03-07,14:06:37,Friday,Fake UPI App,Impersonation of Known Person,19100,Google Pay,P2P,txn8645@apl
+TXN568605772458,2025-01-03,08:13:28,Friday,Vishing,Delivery Agent Scam,2700,Google Pay,P2M,user9388@okhdfcbank
+TXN897462625621,2023-08-11,21:43:38,Friday,Fake UPI App,Prize/Lottery Win,8150,PhonePe,P2P,mb7002@ibl
+TXN123502747412,2023-04-16,09:16:42,Sunday,Fake UPI App,Job Offer/Part-time Work,800,BHIM,P2P,acct8249@ibl
+TXN944058491000,2023-12-08,15:58:59,Friday,Vishing,Refund Processing,24400,PhonePe,P2P,txn3564@ybl
+TXN988043117605,2023-11-14,15:18:34,Tuesday,Fake UPI App,KYC Update Required,6800,PhonePe,Collect Request,mb7359@ybl
+TXN706650308949,2025-02-12,20:39:55,Wednesday,Vishing,Job Offer/Part-time Work,2350,Paytm,P2P,txn6258@okhdfcbank
+TXN935092531755,2024-07-03,21:21:51,Wednesday,Phishing,Investment Scheme,3500,PhonePe,P2P,txn5590@axl
+TXN424022213367,2023-05-08,12:28:06,Monday,Phishing,Digital Arrest Threat,1500,Google Pay,P2M,user5943@apl
+TXN177075745352,2024-04-27,06:36:11,Saturday,Vishing,Delivery Agent Scam,16450,PhonePe,P2M,pay6542@oksbi
+TXN361037034587,2024-06-01,17:22:38,Saturday,Phishing,KYC Update Required,39150,PhonePe,P2M,txn1098@ibl
+TXN744575697115,2024-07-29,09:26:47,Monday,Phishing,Electricity Bill Disconnection,44550,PhonePe,P2P,user4952@apl
+TXN282205115795,2024-08-01,09:25:47,Thursday,Fake UPI App,KYC Update Required,2850,Google Pay,P2M,user5825@okicici
+TXN203138976024,2023-07-26,11:53:35,Wednesday,QR Code Swap,Job Offer/Part-time Work,5250,BHIM,P2P,txn4020@axl
+TXN408880391400,2023-06-02,13:01:55,Friday,Phishing,Delivery Agent Scam,2100,Paytm,P2P,acct4667@okhdfcbank
+TXN870783495315,2024-06-28,13:15:58,Friday,Fake Collect Request,Refund Processing,9600,PhonePe,P2P,pay9081@okicici
+TXN746936328685,2024-11-07,08:24:14,Thursday,Vishing,Electricity Bill Disconnection,1650,Google Pay,P2M,txn1383@paytm
+TXN361193488618,2024-06-19,11:00:26,Wednesday,SIM Swap,Impersonation of Known Person,495050,Google Pay,P2M,mb1533@ybl
+TXN889398730971,2024-11-19,10:57:10,Tuesday,Vishing,Refund Processing,900,PhonePe,P2P,user4703@axl
+TXN395445045652,2024-10-25,11:50:13,Friday,Fake Collect Request,Customer Care Impersonation,14000,PhonePe,P2P,txn2482@okicici
+TXN325770785088,2024-03-07,18:25:20,Thursday,Social Engineering,Customer Care Impersonation,6100,PhonePe,P2P,acct6601@okhdfcbank
+TXN990984818900,2024-05-10,13:44:14,Friday,Phishing,Electricity Bill Disconnection,4950,PhonePe,P2P,pay1433@okaxis
+TXN752479944282,2024-01-01,11:08:17,Monday,Phishing,Refund Processing,700,PhonePe,P2P,acct3288@ybl
+TXN317216171899,2025-03-10,18:55:08,Monday,Phishing,Job Offer/Part-time Work,1600,Google Pay,P2M,pay4841@okicici
+TXN627395074731,2023-07-07,12:39:03,Friday,Phishing,Job Offer/Part-time Work,4200,Paytm,P2P,pay7627@okicici
+TXN545111639584,2024-05-12,14:42:37,Sunday,SIM Swap,Customer Care Impersonation,2900,PhonePe,P2M,pay5913@paytm
+TXN159438668592,2024-11-24,18:56:11,Sunday,OTP Sharing,Electricity Bill Disconnection,850,PhonePe,P2M,mb6919@axl
+TXN256890330373,2024-08-01,20:41:02,Thursday,Phishing,Job Offer/Part-time Work,2300,PhonePe,P2M,acct8960@okaxis
+TXN261744322811,2024-05-14,08:43:47,Tuesday,QR Code Swap,Impersonation of Known Person,17750,PhonePe,P2M,pay2823@oksbi
+TXN137589776542,2023-04-13,16:50:39,Thursday,Vishing,Delivery Agent Scam,17150,PhonePe,P2P,acct4414@ybl
+TXN586272729829,2024-12-29,22:52:17,Sunday,Fake UPI App,Delivery Agent Scam,17750,PhonePe,Collect Request,txn5368@ybl
+TXN667785485297,2023-11-11,10:27:49,Saturday,Vishing,Refund Processing,1300,PhonePe,P2P,acct5361@okhdfcbank
+TXN553699261187,2023-11-19,14:21:40,Sunday,Social Engineering,KYC Update Required,7200,PhonePe,P2M,user5810@oksbi
+TXN823133949882,2023-12-25,10:29:03,Monday,Vishing,Investment Scheme,4200,PhonePe,P2P,txn2427@apl
+TXN586396364669,2023-06-01,09:30:59,Thursday,OTP Sharing,Delivery Agent Scam,5900,Google Pay,P2M,txn7960@apl
+TXN656829808517,2024-05-10,14:28:42,Friday,Phishing,Prize/Lottery Win,17700,Paytm,P2P,acct6391@oksbi
+TXN250916777098,2024-05-01,13:13:36,Wednesday,QR Code Swap,Customer Care Impersonation,2700,Google Pay,P2M,user8461@okaxis
+TXN188543798882,2024-10-10,20:43:46,Thursday,QR Code Swap,Digital Arrest Threat,2850,Google Pay,P2M,mb9790@okicici
+TXN834240467540,2023-09-05,12:20:56,Tuesday,SIM Swap,Delivery Agent Scam,13800,PhonePe,P2P,pay2427@oksbi
+TXN408274600994,2023-07-25,10:49:36,Tuesday,Fake Collect Request,Prize/Lottery Win,2100,PhonePe,P2M,pay1889@okicici
+TXN257445640344,2023-07-24,12:32:55,Monday,Social Engineering,Job Offer/Part-time Work,3550,PhonePe,Collect Request,mb2526@ibl
+TXN703076196876,2023-05-18,08:03:59,Thursday,Fake Collect Request,KYC Update Required,1800,PhonePe,P2M,pay5849@ybl
+TXN618831229356,2025-02-05,20:29:09,Wednesday,QR Code Swap,Customer Care Impersonation,7800,Google Pay,P2P,acct7421@okicici
+TXN185924556011,2023-08-15,20:15:39,Tuesday,Phishing,Prize/Lottery Win,850,Paytm,P2P,pay1179@ybl
+TXN932872717114,2025-02-02,20:13:26,Sunday,Fake Collect Request,Job Offer/Part-time Work,6300,PhonePe,Collect Request,txn4969@axl
+TXN889734011872,2023-05-14,11:14:44,Sunday,SIM Swap,KYC Update Required,2300,Google Pay,P2P,mb8401@paytm
+TXN292865847739,2024-01-09,22:25:26,Tuesday,Phishing,Digital Arrest Threat,750,PhonePe,P2M,pay1827@ybl
+TXN764591372180,2023-10-06,09:26:36,Friday,Fake Collect Request,Prize/Lottery Win,1350,Google Pay,P2P,mb5062@oksbi
+TXN192769105651,2024-10-21,14:45:31,Monday,QR Code Swap,Investment Scheme,1400,PhonePe,P2M,pay3065@axl
+TXN667812394316,2023-06-08,11:03:41,Thursday,Remote Access Scam,Loan Offer,16550,PhonePe,P2M,mb9121@ibl
+TXN569983780621,2023-08-14,05:39:34,Monday,QR Code Swap,Investment Scheme,4750,Paytm,P2P,mb2676@ybl
+TXN269566562557,2024-11-03,22:52:49,Sunday,Fake Collect Request,Customer Care Impersonation,52250,PhonePe,P2P,txn1110@ybl
+TXN259107014114,2023-12-20,08:10:20,Wednesday,Vishing,Job Offer/Part-time Work,900,PhonePe,P2P,txn2162@oksbi
+TXN108095390541,2023-11-02,13:12:19,Thursday,SIM Swap,Refund Processing,23950,Google Pay,P2P,acct7775@ibl
+TXN477963373906,2025-01-04,05:58:44,Saturday,Fake Collect Request,Refund Processing,15850,PhonePe,P2M,txn9922@okhdfcbank
+TXN373852008942,2023-12-23,10:51:39,Saturday,Vishing,KYC Update Required,4450,PhonePe,P2M,mb9944@okicici
+TXN200235715434,2023-04-25,17:37:24,Tuesday,Vishing,Impersonation of Known Person,2000,Google Pay,P2P,acct5628@axl
+TXN888897440625,2023-11-29,11:26:08,Wednesday,Phishing,KYC Update Required,89650,Google Pay,P2M,user2518@apl
+TXN259596398635,2023-07-04,09:54:58,Tuesday,Phishing,Delivery Agent Scam,2400,Google Pay,P2P,user6137@oksbi
+TXN732407652856,2024-07-31,13:17:23,Wednesday,OTP Sharing,KYC Update Required,5000,Google Pay,P2M,txn7901@paytm
+TXN159324669071,2024-05-22,09:20:44,Wednesday,SIM Swap,Refund Processing,2001,PhonePe,P2M,acct4874@okaxis
+TXN765820027162,2024-06-18,19:23:02,Tuesday,Phishing,KYC Update Required,5700,Google Pay,P2M,txn6553@okicici
+TXN751246597590,2024-11-03,13:38:23,Sunday,Vishing,KYC Update Required,1850,Google Pay,P2M,pay1718@ibl
+TXN233785688919,2024-03-03,10:05:07,Sunday,Fake Collect Request,Investment Scheme,6000,PhonePe,P2P,acct9110@okaxis
+TXN848179213188,2023-04-13,10:51:26,Thursday,Phishing,Prize/Lottery Win,2550,PhonePe,Collect Request,user2111@paytm
+TXN741958188595,2024-08-21,19:20:27,Wednesday,Phishing,Refund Processing,9700,PhonePe,P2P,user6231@paytm
+TXN614050310992,2025-01-12,15:25:27,Sunday,Remote Access Scam,Prize/Lottery Win,97100,Paytm,P2M,user4043@oksbi
+TXN384709498631,2024-10-07,10:54:00,Monday,SIM Swap,Delivery Agent Scam,900,PhonePe,P2P,user4048@apl
+TXN375281293411,2023-09-15,19:59:51,Friday,Social Engineering,Electricity Bill Disconnection,4550,PhonePe,Collect Request,user2069@axl
+TXN578131253289,2023-09-27,14:18:08,Wednesday,Phishing,Customer Care Impersonation,4700,Google Pay,P2M,mb2137@oksbi
+TXN138483295590,2023-05-01,00:53:25,Monday,SIM Swap,Prize/Lottery Win,211900,Amazon Pay,P2M,acct7583@ybl
+TXN580471730011,2023-04-04,09:23:03,Tuesday,Vishing,KYC Update Required,15500,PhonePe,P2M,acct7010@apl
+TXN393981134021,2024-06-04,08:36:59,Tuesday,Phishing,Digital Arrest Threat,30250,PhonePe,P2M,txn8957@oksbi
+TXN829287318145,2024-11-22,17:36:43,Friday,QR Code Swap,Loan Offer,9450,PhonePe,P2M,pay3341@axl
+TXN852402904314,2023-08-09,08:14:37,Wednesday,Vishing,Electricity Bill Disconnection,2550,Paytm,P2M,acct8158@okicici
+TXN699823383615,2025-03-21,21:31:19,Friday,Phishing,Investment Scheme,45850,Google Pay,P2M,txn2104@axl
+TXN695618637545,2025-03-15,07:46:12,Saturday,OTP Sharing,Investment Scheme,4650,Google Pay,P2M,pay1060@paytm
+TXN936451786680,2023-08-01,06:34:03,Tuesday,Fake Collect Request,Loan Offer,650,PhonePe,Collect Request,txn9086@ibl
+TXN746445372468,2024-07-25,13:00:00,Thursday,Phishing,KYC Update Required,7750,Paytm,P2P,mb8738@ybl
+TXN166190652573,2023-10-24,14:58:34,Tuesday,Money Mule,Impersonation of Known Person,1000,Google Pay,P2M,pay1740@ibl
+TXN271755882365,2023-11-15,04:38:49,Wednesday,Fake UPI App,Electricity Bill Disconnection,13500,PhonePe,P2P,mb5402@okhdfcbank
+TXN935920625633,2024-12-15,10:00:19,Sunday,Vishing,Digital Arrest Threat,900,PhonePe,Collect Request,mb1739@okicici
+TXN832034305388,2024-12-22,10:09:41,Sunday,Fake UPI App,Job Offer/Part-time Work,32650,BHIM,P2P,acct8719@ybl
+TXN727520582755,2024-04-06,16:07:42,Saturday,Vishing,Job Offer/Part-time Work,8500,Google Pay,P2P,acct3607@oksbi
+TXN851253166024,2023-05-02,18:23:46,Tuesday,Fake Collect Request,KYC Update Required,22400,PhonePe,P2M,user7087@okhdfcbank
+TXN349843671342,2024-10-05,14:18:49,Saturday,Phishing,Impersonation of Known Person,3500,Google Pay,Collect Request,acct1927@okaxis
+TXN922281938567,2024-10-07,16:28:03,Monday,OTP Sharing,Customer Care Impersonation,8800,PhonePe,P2M,pay8582@apl
+TXN358346310157,2024-02-23,14:03:35,Friday,Fake Collect Request,Refund Processing,4500,Google Pay,P2P,mb7539@okhdfcbank
+TXN887645565428,2025-01-07,20:47:05,Tuesday,Fake Collect Request,Electricity Bill Disconnection,11650,Google Pay,P2P,mb1600@okhdfcbank
+TXN776504733295,2023-11-11,14:09:37,Saturday,Fake Collect Request,Customer Care Impersonation,4500,Google Pay,Collect Request,acct9496@oksbi
+TXN780659721830,2025-03-08,13:51:31,Saturday,QR Code Swap,Refund Processing,22550,PhonePe,P2P,mb4647@apl
+TXN532718178385,2023-05-16,11:32:34,Tuesday,Phishing,Loan Offer,70400,Google Pay,P2M,mb2223@okaxis
+TXN124972673010,2024-12-23,13:03:55,Monday,Social Engineering,Digital Arrest Threat,3250,Google Pay,P2P,user8077@oksbi
+TXN461158337747,2023-11-10,18:32:42,Friday,Phishing,Electricity Bill Disconnection,1700,PhonePe,Collect Request,mb7034@ybl
+TXN478482532774,2023-09-27,11:24:54,Wednesday,Money Mule,KYC Update Required,4250,Google Pay,P2M,mb6844@apl
+TXN404245936119,2023-12-31,18:59:59,Sunday,Fake Collect Request,KYC Update Required,3800,PhonePe,P2M,acct7334@okaxis
+TXN897039148524,2023-10-26,17:51:28,Thursday,Vishing,Digital Arrest Threat,12100,PhonePe,P2M,mb7299@okicici
+TXN393003442995,2024-04-21,13:07:38,Sunday,SIM Swap,Prize/Lottery Win,317000,PhonePe,P2P,mb9916@okaxis
+TXN578289690554,2024-06-07,15:57:26,Friday,QR Code Swap,Refund Processing,5150,PhonePe,P2M,txn3295@axl
+TXN125962996558,2024-04-27,10:48:08,Saturday,Vishing,Refund Processing,1700,PhonePe,P2M,pay9971@ibl
+TXN402199040903,2024-03-17,06:46:13,Sunday,Fake UPI App,Prize/Lottery Win,14450,Google Pay,P2M,acct2371@ibl
+TXN511476726878,2023-08-31,12:07:16,Thursday,OTP Sharing,KYC Update Required,9300,PhonePe,Collect Request,mb1845@okaxis
+TXN461330762112,2023-12-06,07:13:37,Wednesday,Phishing,Delivery Agent Scam,650,PhonePe,P2P,acct1866@axl
+TXN459382591596,2024-06-12,19:42:12,Wednesday,Vishing,KYC Update Required,11200,PhonePe,P2P,pay3755@ybl
+TXN244255522722,2023-09-05,03:26:30,Tuesday,Phishing,Customer Care Impersonation,3050,PhonePe,Collect Request,pay3885@okaxis
+TXN381739997093,2025-01-30,04:42:47,Thursday,Fake Collect Request,Prize/Lottery Win,650,PhonePe,P2M,txn7745@ybl
+TXN401689253046,2024-02-06,09:25:19,Tuesday,SIM Swap,Refund Processing,3800,Google Pay,P2P,mb6906@okicici
+TXN392509720022,2024-03-30,12:49:05,Saturday,Vishing,Customer Care Impersonation,1300,Google Pay,P2P,acct7053@oksbi
+TXN320287309742,2023-09-11,11:28:49,Monday,Money Mule,Loan Offer,3600,PhonePe,P2M,acct9091@okicici
+TXN904848079431,2024-07-30,07:41:29,Tuesday,Fake UPI App,Impersonation of Known Person,16850,PhonePe,P2P,mb3410@ybl
+TXN166054619568,2024-12-21,16:56:48,Saturday,Fake Collect Request,Investment Scheme,8400,Google Pay,P2P,acct3720@okaxis
+TXN799355312870,2024-12-19,13:30:35,Thursday,Social Engineering,Refund Processing,800,PhonePe,P2P,pay7366@ybl
+TXN778984641805,2023-10-13,15:29:08,Friday,SIM Swap,Investment Scheme,9800,Google Pay,P2P,acct8397@okaxis
+TXN562421448758,2024-03-02,10:07:02,Saturday,Phishing,Job Offer/Part-time Work,2700,PhonePe,P2M,acct4360@ybl
+TXN818597637735,2023-05-17,19:34:51,Wednesday,OTP Sharing,Prize/Lottery Win,650,PhonePe,P2P,pay1633@okicici
+TXN564177246776,2023-07-31,12:34:02,Monday,SIM Swap,Prize/Lottery Win,1750,BHIM,P2M,user8832@okhdfcbank
+TXN675237220978,2024-10-08,12:05:20,Tuesday,SIM Swap,KYC Update Required,1950,Paytm,P2M,mb2446@ybl
+TXN775605508767,2024-09-28,13:40:19,Saturday,Vishing,Refund Processing,47850,PhonePe,Collect Request,user7208@okhdfcbank
+TXN913882765329,2023-12-12,16:07:22,Tuesday,Vishing,Customer Care Impersonation,1950,PhonePe,P2M,txn2229@okaxis
+TXN573909840170,2024-08-11,17:04:59,Sunday,OTP Sharing,Electricity Bill Disconnection,9900,Paytm,P2P,acct6699@axl
+TXN221437856896,2024-08-29,11:09:54,Thursday,Money Mule,Refund Processing,4950,Google Pay,P2P,pay1083@axl
+TXN650581194823,2023-12-23,05:44:32,Saturday,QR Code Swap,KYC Update Required,24350,PhonePe,P2M,user2994@ibl
+TXN509001888815,2023-08-25,15:11:11,Friday,Fake Collect Request,Electricity Bill Disconnection,4200,PhonePe,Collect Request,user2891@oksbi
+TXN696685350600,2023-10-16,11:49:28,Monday,Social Engineering,KYC Update Required,1800,Google Pay,P2P,user2192@okaxis
+TXN773993491209,2025-03-30,22:15:19,Sunday,Phishing,Customer Care Impersonation,2500,Paytm,P2P,pay1369@axl
+TXN707016033081,2024-10-24,16:01:43,Thursday,Money Mule,Investment Scheme,4400,Google Pay,P2M,txn6643@paytm
+TXN399600365875,2024-10-09,18:11:36,Wednesday,Social Engineering,Prize/Lottery Win,1350,Google Pay,P2P,txn8275@okaxis
+TXN649057296405,2023-08-26,13:05:59,Saturday,Vishing,Job Offer/Part-time Work,5550,PhonePe,P2M,pay6293@okaxis
+TXN521030465431,2023-12-03,18:57:16,Sunday,Phishing,Refund Processing,2001,PhonePe,P2P,pay9175@axl
+TXN253880686697,2023-09-16,12:03:15,Saturday,Money Mule,Prize/Lottery Win,1850,PhonePe,P2P,mb8128@axl
+TXN998190197888,2023-09-09,08:18:10,Saturday,Fake Collect Request,Refund Processing,10450,Google Pay,Collect Request,txn1540@oksbi
+TXN811168275119,2024-08-25,06:34:49,Sunday,Social Engineering,Electricity Bill Disconnection,2750,PhonePe,P2M,txn8049@okhdfcbank
+TXN814618437435,2024-03-14,12:45:43,Thursday,Vishing,Digital Arrest Threat,9200,PhonePe,P2P,acct8626@apl
+TXN618225743573,2024-04-20,11:46:18,Saturday,Fake UPI App,KYC Update Required,2500,Google Pay,P2M,acct2096@okicici
+TXN367728073337,2023-06-28,19:41:20,Wednesday,QR Code Swap,KYC Update Required,1850,PhonePe,P2P,pay3476@oksbi
+TXN723825351604,2024-03-30,15:04:55,Saturday,Phishing,KYC Update Required,18450,PhonePe,P2M,mb3433@oksbi
+TXN252573528736,2023-12-22,13:38:42,Friday,Fake Collect Request,KYC Update Required,37450,BHIM,P2M,user2544@okhdfcbank
+TXN618031446227,2024-03-27,09:27:25,Wednesday,Vishing,Refund Processing,2900,PhonePe,Collect Request,acct5262@apl
+TXN943624783824,2024-11-23,13:10:17,Saturday,Fake UPI App,Customer Care Impersonation,8000,PhonePe,P2P,pay8328@axl
+TXN859595163173,2024-02-22,17:39:28,Thursday,Fake Collect Request,Investment Scheme,1900,Google Pay,P2P,user5700@ibl
+TXN866941083112,2024-04-17,08:33:18,Wednesday,OTP Sharing,Loan Offer,550,PhonePe,P2M,txn6188@okhdfcbank
+TXN947195730664,2024-06-29,01:12:26,Saturday,OTP Sharing,Prize/Lottery Win,9250,PhonePe,P2M,mb4334@oksbi
+TXN714283517808,2025-02-20,15:01:50,Thursday,QR Code Swap,Customer Care Impersonation,95300,Google Pay,P2M,txn7869@ybl
+TXN167183088736,2023-10-10,08:39:23,Tuesday,SIM Swap,KYC Update Required,1650,BHIM,Collect Request,mb1799@oksbi
+TXN783080458364,2024-01-18,10:04:03,Thursday,Vishing,Refund Processing,2250,PhonePe,P2P,user2689@axl
+TXN499890244822,2024-01-14,13:31:53,Sunday,Fake UPI App,Electricity Bill Disconnection,5300,Paytm,P2M,mb7377@axl
+TXN175329940459,2023-06-27,15:30:52,Tuesday,Fake UPI App,Investment Scheme,4350,PhonePe,P2P,mb6697@axl
+TXN569978181102,2024-10-10,12:23:15,Thursday,Money Mule,KYC Update Required,9850,PhonePe,P2M,mb8944@oksbi
+TXN366151739505,2023-09-03,19:21:13,Sunday,Phishing,Refund Processing,12950,Google Pay,P2P,user9918@paytm
+TXN631426988414,2024-10-29,21:08:56,Tuesday,OTP Sharing,Delivery Agent Scam,1450,Google Pay,Collect Request,mb7388@oksbi
+TXN843546067702,2024-06-27,21:09:04,Thursday,Phishing,KYC Update Required,1050,PhonePe,P2M,mb8778@okhdfcbank
+TXN848955803794,2024-03-24,18:25:49,Sunday,QR Code Swap,Refund Processing,4500,PhonePe,P2P,txn4215@paytm
+TXN206094707418,2023-08-09,20:37:04,Wednesday,SIM Swap,Customer Care Impersonation,4550,PhonePe,P2M,user2134@axl
+TXN544831717158,2023-05-02,14:08:25,Tuesday,Vishing,Impersonation of Known Person,6700,Google Pay,Collect Request,acct2495@ybl
+TXN284261148126,2024-05-28,23:24:54,Tuesday,Vishing,KYC Update Required,23300,Amazon Pay,P2M,acct3105@ybl
+TXN867274280866,2025-03-06,20:43:42,Thursday,Phishing,KYC Update Required,5400,PhonePe,P2P,pay4841@ibl
+TXN466062815575,2024-12-03,17:53:57,Tuesday,Phishing,KYC Update Required,600,Google Pay,P2M,txn2056@ibl
+TXN730333833784,2024-12-27,18:03:59,Friday,Vishing,Electricity Bill Disconnection,3800,PhonePe,P2M,txn8518@ybl
+TXN920874731021,2023-11-12,07:53:55,Sunday,Money Mule,Electricity Bill Disconnection,1200,Google Pay,P2P,txn3292@axl
+TXN493705771668,2024-05-22,18:22:41,Wednesday,Phishing,Customer Care Impersonation,16650,PhonePe,P2M,user2438@axl
+TXN102616477635,2023-09-24,15:11:27,Sunday,QR Code Swap,Impersonation of Known Person,4850,PhonePe,P2P,acct5774@oksbi
+TXN946644562563,2023-08-17,11:39:30,Thursday,QR Code Swap,Impersonation of Known Person,1150,PhonePe,Collect Request,acct2791@axl
+TXN753993681073,2024-11-17,09:04:52,Sunday,Phishing,KYC Update Required,73100,Google Pay,P2P,pay9566@paytm
+TXN480537223747,2025-01-14,13:03:40,Tuesday,Vishing,KYC Update Required,800,Paytm,P2P,pay3968@okicici
+TXN910858064294,2024-12-10,09:07:40,Tuesday,Fake Collect Request,Refund Processing,2150,PhonePe,P2P,txn1407@ibl
+TXN488345931012,2024-02-07,12:42:38,Wednesday,Vishing,Electricity Bill Disconnection,4050,PhonePe,P2P,mb4254@ybl
+TXN662315636805,2024-10-27,18:14:42,Sunday,Social Engineering,Digital Arrest Threat,4250,Google Pay,P2P,mb5763@oksbi
+TXN155869753001,2023-11-10,16:41:16,Friday,Vishing,Delivery Agent Scam,48900,Google Pay,P2P,acct4228@ybl
+TXN856483994088,2025-03-14,13:14:58,Friday,SIM Swap,KYC Update Required,44350,Google Pay,Collect Request,user5913@ibl
+TXN732874567225,2023-07-06,11:21:14,Thursday,Social Engineering,Loan Offer,1450,Google Pay,Collect Request,user5501@okicici
+TXN976349326673,2024-07-15,19:09:35,Monday,QR Code Swap,Job Offer/Part-time Work,6500,Google Pay,P2M,mb2324@oksbi
+TXN510064698549,2024-08-01,17:59:19,Thursday,Vishing,Prize/Lottery Win,4800,Google Pay,P2P,acct3732@axl
+TXN439557177986,2024-06-08,04:16:33,Saturday,Phishing,Prize/Lottery Win,92950,Paytm,P2P,txn1532@ibl
+TXN259159394697,2023-08-07,21:45:46,Monday,QR Code Swap,Job Offer/Part-time Work,2400,Google Pay,Collect Request,txn4969@axl
+TXN809542011652,2025-02-24,08:11:50,Monday,OTP Sharing,Electricity Bill Disconnection,1000,PhonePe,P2P,txn5075@axl
+TXN597828379233,2023-06-26,21:43:41,Monday,Fake UPI App,Loan Offer,9800,PhonePe,P2P,pay3649@apl
+TXN634513923657,2025-03-02,16:47:03,Sunday,SIM Swap,Refund Processing,6300,Google Pay,P2P,user8242@ybl
+TXN935167510752,2023-10-19,06:17:20,Thursday,Phishing,Job Offer/Part-time Work,12900,Google Pay,P2P,acct1773@oksbi
+TXN446820080438,2024-12-10,19:50:13,Tuesday,Vishing,Delivery Agent Scam,8750,Google Pay,P2P,user4992@oksbi
+TXN689430827794,2023-07-12,15:10:09,Wednesday,Phishing,Prize/Lottery Win,4700,PhonePe,P2M,mb2408@paytm
+TXN837249221375,2024-07-21,18:37:45,Sunday,Vishing,KYC Update Required,8950,PhonePe,P2M,mb6253@okhdfcbank
+TXN591512581881,2023-04-07,14:05:48,Friday,Phishing,Customer Care Impersonation,22350,PhonePe,Collect Request,user9208@apl
+TXN820211858494,2023-12-03,15:25:06,Sunday,Phishing,Prize/Lottery Win,3550,PhonePe,P2P,txn7238@okhdfcbank
+TXN389548047181,2024-04-25,09:27:13,Thursday,OTP Sharing,Electricity Bill Disconnection,1900,PhonePe,P2P,acct1445@ybl
+TXN921116679408,2024-10-03,22:24:37,Thursday,QR Code Swap,Job Offer/Part-time Work,5200,PhonePe,P2P,pay2861@okicici
+TXN814684613415,2024-03-03,15:17:04,Sunday,Phishing,KYC Update Required,3550,PhonePe,P2M,user8871@ibl
+TXN112747036016,2025-01-31,10:36:30,Friday,Social Engineering,KYC Update Required,8700,Paytm,P2P,acct2261@paytm
+TXN676432968804,2023-12-06,07:26:12,Wednesday,Fake UPI App,Loan Offer,1450,Google Pay,P2M,mb1877@axl
+TXN439497446520,2023-07-26,18:41:52,Wednesday,Phishing,Digital Arrest Threat,1500,PhonePe,P2P,mb1922@oksbi
+TXN477493163102,2024-01-28,12:49:21,Sunday,QR Code Swap,Loan Offer,3700,Google Pay,P2M,user8175@ybl
+TXN385005472043,2024-10-23,20:04:40,Wednesday,SIM Swap,Loan Offer,233200,Paytm,P2P,user4406@apl
+TXN773232938124,2023-07-06,11:13:49,Thursday,Phishing,Electricity Bill Disconnection,3950,Google Pay,P2M,mb3880@okhdfcbank
+TXN287477282035,2024-03-02,16:48:59,Saturday,Phishing,Customer Care Impersonation,2250,PhonePe,Collect Request,pay5429@okhdfcbank
+TXN985814029853,2023-06-02,12:58:15,Friday,Phishing,Refund Processing,3300,PhonePe,P2M,txn1119@ybl
+TXN426994049992,2025-03-19,21:05:07,Wednesday,OTP Sharing,KYC Update Required,5550,Google Pay,P2M,txn2529@okaxis
+TXN723491301125,2023-06-17,17:52:49,Saturday,Phishing,KYC Update Required,7600,Google Pay,Collect Request,txn4829@oksbi
+TXN307919845739,2024-11-03,10:53:04,Sunday,Fake Collect Request,KYC Update Required,6550,PhonePe,P2M,pay5913@apl
+TXN393989509811,2023-12-20,09:23:06,Wednesday,Social Engineering,Refund Processing,16250,Google Pay,P2M,pay6570@okaxis
+TXN544401658117,2024-10-24,16:59:33,Thursday,SIM Swap,Job Offer/Part-time Work,419200,Google Pay,P2P,txn1734@ybl
+TXN599325227487,2024-09-17,09:02:48,Tuesday,Fake Collect Request,Loan Offer,7250,Paytm,Collect Request,user7694@okhdfcbank
+TXN183059111997,2024-11-19,06:54:16,Tuesday,Fake Collect Request,Loan Offer,27650,PhonePe,Collect Request,mb9276@axl
+TXN734398493153,2024-08-16,17:16:36,Friday,Social Engineering,Customer Care Impersonation,6700,Google Pay,P2M,pay8937@ibl
+TXN570258126795,2025-03-30,18:16:57,Sunday,Phishing,KYC Update Required,5600,Paytm,Collect Request,pay7166@ybl
+TXN773478843037,2023-12-12,14:18:36,Tuesday,Vishing,KYC Update Required,24100,PhonePe,P2P,pay1025@ybl
+TXN688861283245,2025-03-26,14:22:33,Wednesday,Vishing,Prize/Lottery Win,6750,PhonePe,P2P,user3466@oksbi
+TXN145941634825,2025-02-24,13:30:45,Monday,Fake UPI App,Customer Care Impersonation,39700,PhonePe,Collect Request,mb9001@paytm
+TXN122120359987,2024-12-18,10:18:41,Wednesday,Vishing,Delivery Agent Scam,4050,PhonePe,P2M,acct7901@paytm
+TXN421026751575,2024-12-02,13:12:19,Monday,Phishing,KYC Update Required,3950,Google Pay,P2P,txn6626@oksbi
+TXN928884020358,2024-04-09,10:11:58,Tuesday,Phishing,Investment Scheme,8350,Paytm,P2M,txn7904@okhdfcbank
+TXN609900867615,2024-02-16,23:05:35,Friday,Phishing,Refund Processing,41450,PhonePe,P2P,mb7743@axl
+TXN406297936662,2025-03-26,16:47:23,Wednesday,OTP Sharing,Loan Offer,3400,Google Pay,P2P,acct4964@apl
+TXN457289643226,2023-06-08,10:22:04,Thursday,Phishing,Electricity Bill Disconnection,1300,Paytm,P2P,mb5300@ybl
+TXN487154168484,2023-11-18,19:30:41,Saturday,Vishing,Impersonation of Known Person,2350,Paytm,P2P,mb7125@oksbi
+TXN709876590486,2024-09-29,19:22:13,Sunday,Remote Access Scam,Investment Scheme,85250,Google Pay,P2P,acct6411@ibl
+TXN292485102236,2024-07-15,11:39:11,Monday,Phishing,Loan Offer,700,Google Pay,P2M,txn3572@okhdfcbank
+TXN452456921114,2023-12-04,22:54:03,Monday,Fake UPI App,Digital Arrest Threat,11650,Paytm,P2P,pay1638@oksbi
+TXN713248682433,2023-04-11,13:34:05,Tuesday,OTP Sharing,Delivery Agent Scam,600,Google Pay,P2P,pay2610@okicici
+TXN247102882080,2023-09-04,06:19:43,Monday,Phishing,Customer Care Impersonation,5850,Google Pay,Collect Request,user7627@apl
+TXN724253149852,2023-08-07,09:05:40,Monday,Fake UPI App,Impersonation of Known Person,4600,Google Pay,P2M,pay3279@ibl
+TXN992138659860,2024-10-16,16:03:45,Wednesday,Phishing,Job Offer/Part-time Work,600,PhonePe,P2P,user6426@apl
+TXN903038850112,2024-05-14,01:24:02,Tuesday,Vishing,Customer Care Impersonation,850,PhonePe,P2M,mb9274@ibl
+TXN159953369439,2023-10-27,05:57:24,Friday,Vishing,Customer Care Impersonation,17050,Google Pay,Collect Request,acct3096@okicici
+TXN746483010296,2023-07-10,19:55:12,Monday,Fake Collect Request,Loan Offer,1050,PhonePe,Collect Request,txn5028@apl
