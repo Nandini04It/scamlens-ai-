@@ -15,7 +15,8 @@ import plotly.express as px
 
 from utils import (
     full_pipeline,
-    get_or_train_model,
+    train_model,
+    save_model,
     predict_severity,
     get_recommendation,
 )
@@ -39,35 +40,23 @@ st.sidebar.caption("UPI Fraud Analytics & Severity Predictor")
 
 page = st.sidebar.radio(
     "Navigate",
-    ["🏠 Overview", "📊 EDA Dashboard", "🤖 Fraud Predictor", "📈 Model Insights"],
-)
-
-st.sidebar.markdown("---")
-uploaded_file = st.sidebar.file_uploader("Upload scam_dataset.csv", type=["csv"])
-st.sidebar.caption(
-    "Agar file upload nahi karte, to app repo mein maujood "
-    "`scam_dataset.csv` use karega."
+    ["🏠 Overview", "📊 EDA Dashboard", "🤖 Fraud Predictor", "📈 Model Insights", "📌 Insights & Conclusion"],
 )
 
 # ==========================================================
-# LOAD DATA (cached so it only runs once per session/file)
+# LOAD DATA (cached so it only runs once per session)
 # ==========================================================
 @st.cache_data
-def get_data(file):
-    if file is not None:
-        return full_pipeline(file)
+def get_data():
     return full_pipeline("scam_dataset.csv")
 
 
 try:
-    if uploaded_file is not None:
-        df = get_data(uploaded_file)
-    else:
-        df = get_data(None)
+    df = get_data()
 except FileNotFoundError:
     st.error(
-        "⚠ `scam_dataset.csv` nahi mila. Sidebar se dataset upload karein, "
-        "ya file ko app.py ke saath repo mein rakhein."
+        "⚠ `scam_dataset.csv` nahi mila. Is file ko app.py ke saath "
+        "repo ke root folder mein rakhein."
     )
     st.stop()
 
@@ -76,7 +65,9 @@ except FileNotFoundError:
 # ==========================================================
 @st.cache_resource
 def get_model(df):
-    return get_or_train_model(df)
+    model, encoders, target_encoder, metrics = train_model(df)
+    save_model(model, encoders, target_encoder)  # keeps .pkl files updated too
+    return model, encoders, target_encoder, metrics
 
 model, encoders, target_encoder, metrics = get_model(df)
 
@@ -85,33 +76,59 @@ model, encoders, target_encoder, metrics = get_model(df)
 # PAGE 1 : OVERVIEW
 # ==========================================================
 if page == "🏠 Overview":
-    st.title("🕵️ ScamLens AI - UPI Fraud Analytics")
-    st.markdown(
-        "Digital payment fraud analysis using Python, Data Science & "
-        "Machine Learning — built to explore UPI fraud patterns and "
-        "predict fraud severity."
-    )
+
+    st.title("🕵️ ScamLens AI - Intelligent UPI Fraud Analytics & Risk Prediction System")
+
+    st.markdown("""
+### 📖 Project Overview
+                
+ScamLens AI is a data-driven fraud analytics platform developed using **Python, Data Science, Machine Learning, and Streamlit** to analyze fraudulent UPI transactions and identify hidden fraud patterns.
+The project combines **data preprocessing, feature engineering, exploratory data analysis (EDA), business intelligence, and machine learning** to understand fraud behavior and support secure digital payment systems.
+The interactive dashboard enables users to explore fraud trends, visualize transaction patterns, and predict fraud severity using an AI-based Decision Tree model.
+""")
+
+    st.divider()
 
     col1, col2, col3, col4 = st.columns(4)
-    col1.metric("Total Fraud Transactions", f"{len(df):,}")
+
+    col1.metric("Total Transactions", f"{len(df):,}")
     col2.metric("Total Fraud Amount", f"₹{df['amount_inr'].sum():,.0f}")
     col3.metric("Average Fraud Amount", f"₹{df['amount_inr'].mean():,.0f}")
     col4.metric("Highest Fraud Amount", f"₹{df['amount_inr'].max():,.0f}")
 
-    st.markdown("### 🔍 Sample Data")
-    st.dataframe(df.head(10), use_container_width=True)
+    st.divider()
 
-    st.markdown("### 📌 Project Objectives")
-    st.markdown(
-        """
-- Analyze UPI fraud transaction data
-- Clean & preprocess the dataset
-- Engineer meaningful new features
-- Explore fraud patterns via EDA
-- Predict fraud severity using a Decision Tree model
-- Support fraud prevention with AI-driven recommendations
-"""
-    )
+    st.subheader("🎯 Project Objectives")
+
+    st.markdown("""
+- Analyze fraudulent UPI transaction data.
+- Perform data cleaning and preprocessing.
+- Engineer meaningful features for better analysis.
+- Discover fraud patterns using interactive visualizations.
+- Build a Machine Learning model for fraud severity prediction.
+- Support digital payment security through AI-driven insights.
+""")
+
+    st.divider()
+
+    st.subheader("🛠 Technologies Used")
+
+    st.markdown("""
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Plotly
+- Scikit-learn
+- Streamlit
+""")
+
+    st.divider()
+
+    st.subheader("📂 Dataset Preview")
+    st.dataframe(df.head(), use_container_width=True)
+
 
 # ==========================================================
 # PAGE 2 : EDA DASHBOARD
@@ -291,34 +308,102 @@ elif page == "🤖 Fraud Predictor":
 elif page == "📈 Model Insights":
     st.title("📈 Model Performance - Decision Tree Classifier")
 
-    if metrics is None:
-        st.info(
-            "Model saved files (.pkl) load ho gaye hain, isliye fresh metrics "
-            "available nahi hain. Naya model train karne ke liye repo se "
-            "`.pkl` files delete karke app restart karein."
-        )
-    else:
-        st.metric("Accuracy", f"{metrics['accuracy']*100:.2f}%")
+    st.metric("Accuracy", f"{metrics['accuracy']*100:.2f}%")
 
-        st.markdown("### 📋 Classification Report")
-        report_df = pd.DataFrame(metrics["report"]).transpose()
-        st.dataframe(report_df, use_container_width=True)
+    st.markdown("### 📋 Classification Report")
+    report_df = pd.DataFrame(metrics["report"]).transpose()
+    st.dataframe(report_df, use_container_width=True)
 
-        st.markdown("### 🔀 Confusion Matrix")
-        fig, ax = plt.subplots(figsize=(6, 5))
-        sns.heatmap(
-            metrics["confusion_matrix"], annot=True, fmt="d", cmap="Blues",
-            xticklabels=metrics["classes"], yticklabels=metrics["classes"], ax=ax,
-        )
-        ax.set_xlabel("Predicted Label")
-        ax.set_ylabel("Actual Label")
-        st.pyplot(fig)
+    st.markdown("### 🔀 Confusion Matrix")
+    fig, ax = plt.subplots(figsize=(6, 5))
+    sns.heatmap(
+        metrics["confusion_matrix"], annot=True, fmt="d", cmap="Blues",
+        xticklabels=metrics["classes"], yticklabels=metrics["classes"], ax=ax,
+    )
+    ax.set_xlabel("Predicted Label")
+    ax.set_ylabel("Actual Label")
+    st.pyplot(fig)
 
-        st.markdown("### 🌳 Feature Importance")
-        importance = pd.Series(model.feature_importances_, index=metrics["feature_names"]).sort_values()
-        fig = px.bar(x=importance.values, y=importance.index, orientation="h",
-                     title="Feature Importance")
-        st.plotly_chart(fig, use_container_width=True)
+
+elif page == "📌 Insights & Conclusion":
+
+    st.title("📌 Insights, Conclusion & Future Scope")
+
+    tab1, tab2, tab3 = st.tabs(
+        ["📊 Key Insights", "✅ Conclusion", "🚀 Future Scope"]
+    )
+
+    # -------------------------------------------------------
+    # KEY INSIGHTS
+    # -------------------------------------------------------
+    with tab1:
+
+        st.subheader("📊 Key Insights")
+
+        st.markdown("""
+### 🔍 Fraud Pattern Analysis
+
+✅ Fraud transactions are concentrated in specific fraud categories and time periods, indicating that targeted monitoring can improve fraud detection efficiency.
+
+✅ High-value UPI transactions have a greater risk of fraud, making real-time verification essential for secure digital payments.
+
+✅ Certain UPI applications and fraud techniques appear more frequently in scam cases, highlighting the need for stronger platform-specific security measures.
+
+✅ Data visualization reveals clear fraud patterns, enabling organizations to identify suspicious activities and make faster, data-driven decisions.
+
+✅ The Decision Tree model successfully classifies fraudulent transactions, demonstrating the effectiveness of Machine Learning in fraud detection.
+
+✅ Early fraud prediction can help financial institutions reduce financial losses, improve customer trust, and strengthen digital payment security.
+
+✅ Fraud occurrence depends not only on transaction amount but also on fraud type, transaction timing, payment platform, and user behavior, indicating that multiple features together improve prediction accuracy.
+""")
+
+    # -------------------------------------------------------
+    # CONCLUSION
+    # -------------------------------------------------------
+    with tab2:
+
+        st.subheader("✅ Project Conclusion")
+
+        st.markdown("""
+This project successfully analyzed fraudulent UPI transaction data using Python, Data Science, and Machine Learning techniques.
+
+Data preprocessing, feature engineering, exploratory data analysis, and predictive modeling helped identify meaningful fraud patterns and classify fraud severity effectively.
+
+The Decision Tree model demonstrates that intelligent data-driven approaches can support financial institutions, banks, payment platforms, and cybersecurity teams in detecting fraudulent transactions more efficiently.
+
+Overall, ScamLens AI showcases how Machine Learning and interactive analytics dashboards can improve fraud detection, reduce financial losses, and enhance digital payment security.
+""")
+
+    # -------------------------------------------------------
+    # FUTURE SCOPE
+    # -------------------------------------------------------
+    with tab3:
+
+        st.subheader("🚀 Future Scope")
+
+        st.markdown("""
+- Implement advanced Machine Learning algorithms such as Random Forest, XGBoost, and LightGBM.
+
+- Integrate real-time UPI transaction monitoring.
+
+- Improve prediction accuracy using larger and more diverse datasets.
+
+- Develop an AI-based Fraud Risk Score.
+
+- Integrate APIs for live fraud monitoring and automated alerts.
+
+- Add SMS and Email notification systems for suspicious transactions.
+
+- Develop an interactive dashboard for banks, investigators, and cybersecurity teams.
+
+- Deploy the application on Streamlit Cloud for public access.
+
+- Enhance explainable AI (XAI) features to improve model transparency.
+
+- Extend the system to support fraud detection across multiple digital payment platforms.
+""")
+
 
 st.sidebar.markdown("---")
 st.sidebar.caption("Built with ❤️ using Streamlit | ScamLens AI")
