@@ -34,7 +34,7 @@ def load_and_clean_data(file_path_or_buffer):
     df["date"] = pd.to_datetime(df["date"])
 
     # Convert Time Format (keep as datetime.time objects)
-    df["time"] = pd.to_datetime(df["time"]).dt.time
+    df["time"] = pd.to_datetime(df["time"], format="mixed").dt.time
 
     # Convert Amount into Numeric (handles ₹ symbol / commas if present)
     df["amount_inr"] = (
