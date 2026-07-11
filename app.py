@@ -77,8 +77,7 @@ model, encoders, target_encoder, metrics = get_model(df)
 # ==========================================================
 if page == "🏠 Overview":
 
-    st.title("🕵️ ScamLens AI - Intelligent UPI Fraud Analytics & Risk Prediction System")
-
+    st.title("🕵️ ScamLens AI - UPI Fraud Analytics")
     st.markdown("""
 ### 📖 Project Overview
                 
