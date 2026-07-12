@@ -20,9 +20,8 @@ from sklearn.tree import DecisionTreeClassifier
 from sklearn.metrics import accuracy_score, confusion_matrix, classification_report
 
 
-# ==========================================================
 # STEP 1 : DATA CLEANING
-# ==========================================================
+
 def load_and_clean_data(file_path_or_buffer):
     """
     Loads the raw scam_dataset.csv and applies the same cleaning
@@ -47,9 +46,8 @@ def load_and_clean_data(file_path_or_buffer):
     return df
 
 
-# ==========================================================
 # STEP 2 : FEATURE ENGINEERING
-# ==========================================================
+
 def get_time_slot(t):
     hour = t.hour
     if 5 <= hour < 12:
@@ -107,9 +105,8 @@ def full_pipeline(file_path_or_buffer):
     return df
 
 
-# ==========================================================
 # STEP 3 : MODEL TRAINING (Decision Tree)
-# ==========================================================
+
 FEATURES = [
     "amount_inr",
     "Time_Slot",
@@ -200,9 +197,8 @@ def get_or_train_model(df):
     return model, encoders, target_encoder, metrics
 
 
-# ==========================================================
 # STEP 4 : PREDICTION
-# ==========================================================
+
 def predict_severity(model, encoders, target_encoder, amount, time_slot,
                       day_type, upi_app, transaction_type, fraud_lure):
     """

@@ -25,9 +25,8 @@ from utils import (
     get_recommendation,
 )
 
-# ==========================================================
 # PAGE CONFIG
-# ==========================================================
+
 st.set_page_config(
     page_title="ScamLens AI - UPI Fraud Analytics",
     page_icon="🕵️",
@@ -36,9 +35,8 @@ st.set_page_config(
 
 sns.set_theme(style="whitegrid")
 
-# ==========================================================
 # SIDEBAR NAVIGATION
-# ==========================================================
+
 st.sidebar.title("🕵️ ScamLens AI")
 st.sidebar.caption("UPI Fraud Analytics & Severity Predictor")
 
@@ -47,9 +45,8 @@ page = st.sidebar.radio(
     ["🏠 Overview", "📊 EDA Dashboard", "🤖 Fraud Predictor", "📈 Model Insights", "📌 Insights & Conclusion"],
 )
 
-# ==========================================================
 # LOAD DATA (cached so it only runs once per session)
-# ==========================================================
+
 @st.cache_data
 def get_data():
     return full_pipeline("scam_dataset.csv")
@@ -64,9 +61,8 @@ except FileNotFoundError:
     )
     st.stop()
 
-# ==========================================================
 # TRAIN / LOAD MODEL (cached as a resource)
-# ==========================================================
+
 @st.cache_resource
 def get_model(df):
     model, encoders, target_encoder, metrics = train_model(df)
@@ -76,9 +72,8 @@ def get_model(df):
 model, encoders, target_encoder, metrics = get_model(df)
 
 
-# ==========================================================
 # PAGE 1 : OVERVIEW
-# ==========================================================
+
 if page == "🏠 Overview":
 
     st.title("🕵️ ScamLens AI - UPI Fraud Analytics")
@@ -133,9 +128,8 @@ The interactive dashboard enables users to explore fraud trends, visualize trans
     st.dataframe(df.head(), use_container_width=True)
 
 
-# ==========================================================
 # PAGE 2 : EDA DASHBOARD
-# ==========================================================
+
 elif page == "📊 EDA Dashboard":
     st.title("📊 Exploratory Data Analysis")
 
@@ -270,9 +264,8 @@ elif page == "📊 EDA Dashboard":
         top10 = df.sort_values("amount_inr", ascending=False).head(10)
         st.dataframe(top10, use_container_width=True)
 
-# ==========================================================
 # PAGE 3 : FRAUD PREDICTOR
-# ==========================================================
+
 elif page == "🤖 Fraud Predictor":
     st.title("🤖 ScamLens AI - Fraud Severity Predictor")
     st.caption("Enter transaction details to predict fraud risk severity.")
@@ -305,9 +298,9 @@ elif page == "🤖 Fraud Predictor":
         for tip in rec["tips"]:
             st.markdown(f"- {tip}")
 
-# ==========================================================
+
 # PAGE 4 : MODEL INSIGHTS
-# ==========================================================
+
 elif page == "📈 Model Insights":
     st.title("📈 Model Performance - Decision Tree Classifier")
 
@@ -336,9 +329,8 @@ elif page == "📌 Insights & Conclusion":
         ["📊 Key Insights", "✅ Conclusion", "🚀 Future Scope"]
     )
 
-    # -------------------------------------------------------
     # KEY INSIGHTS
-    # -------------------------------------------------------
+   
     with tab1:
 
         st.subheader("📊 Key Insights")
@@ -361,9 +353,8 @@ elif page == "📌 Insights & Conclusion":
 ✅ Fraud occurrence depends not only on transaction amount but also on fraud type, transaction timing, payment platform, and user behavior, indicating that multiple features together improve prediction accuracy.
 """)
 
-    # -------------------------------------------------------
     # CONCLUSION
-    # -------------------------------------------------------
+
     with tab2:
 
         st.subheader("✅ Project Conclusion")
@@ -378,9 +369,8 @@ The Decision Tree model demonstrates that intelligent data-driven approaches can
 Overall, ScamLens AI showcases how Machine Learning and interactive analytics dashboards can improve fraud detection, reduce financial losses, and enhance digital payment security.
 """)
 
-    # -------------------------------------------------------
-    # FUTURE SCOPE
-    # -------------------------------------------------------
+   # FUTURE SCOPE
+ 
     with tab3:
 
         st.subheader("🚀 Future Scope")
